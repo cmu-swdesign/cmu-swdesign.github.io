@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Designing Large-scale Software Systems
+title: 17-423/723 Designing Large-scale Software Systems
 subtitle: Spring 2024
 ---
 
