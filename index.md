@@ -53,7 +53,7 @@ Educational research shows that active student participation in lectures is cruc
 
 # Course and Grading Policies
 
-## Late work policy and resubmissions: 
+## Late Work Policy and Resubmissions
 We understand that studying during a pandemic is challenging and that some students have conflicting deadlines or are distracted by interviewing for jobs. We therefore build flexibility and a safety net directly into the rubric. If you need additional accommodations, please contact us.
 Every student receives 7 tokens that they can spend throughout the semester in the following ways:
 -  For each token a student can submit a homework assignment 1 day late (with 7 tokens a student can submit multiple homeworks one day late each or a single homework up to 7 days late).
@@ -63,10 +63,10 @@ Every student receives 7 tokens that they can spend throughout the semester in t
 If a student runs out of tokens, individual assignments receive a penalty of 15% per day.
 Exceptions to this policy will be made at the discretion of the instructors in important circumstances, almost always involving a family or medical emergency — you can ask your academic advisor or the Dean of Student Affairs requesting the exception on your behalf. For accommodations related to remote teaching, we try to be flexible: please contact the instructors. Please communicate also with your team about potential timing issues.
 
-## Participation policy
+## Participation Policy
 Class participation will be graded by in-class engagement, including asking relevant questions based on a critical review of required readings and lectures, preparation for any in-class exercises, and responses on the class discussion board. Giving wrong answers during in-class sessions does not negatively affect your grade, because we don’t expect you to do perfect but to try to get better.
 
-## Time management
+## Time Management
 This is a 12-unit course, and it is our intention to manage it so that you spend close to 12 hours a week on the course, on average. In general, 4 hours/week will be spent in class and 1-2 hours on readings, and 6-7 hours on assignments and the project. Please give the course staff feedback if the time the course is taking for you differs significantly from our intention. We are happy to provide tips on time management and will adjust the course load if we notice that many students are raising issues.
 
 ## Academic Integrity
