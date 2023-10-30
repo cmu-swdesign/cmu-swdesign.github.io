@@ -12,9 +12,9 @@ This course teaches students how to design complex, large-scale software systems
 
 ## Prerequisite
 
-- An interest in learning from failures and a growth mindset
 - Intermediate programming skills and/or experience with building medium-size programs (e.g., 17-214)
 - Experience with unit tests and version control systems (e.g., Git)
+- An interest in learning from failures and a growth mindset
 
 ## Instructors
 
