@@ -10,7 +10,7 @@ Design plays a crucial role in the success of a software product, as decisions m
 
 This course teaches students how to design complex, large-scale software systems that are reliable, robust, and built to last. It introduces fundamental concepts and techniques for designing software to achieve qualities of a successful product (such as maintainability, scalability, and robustness) and to avoid catastrophic failures. After taking this course, students will be able to (1) systematically generate and explore design alternatives, (2) specify and evaluate design options using appropriate abstractions, and (3) communicate and critique design decisions with other members of large, multi-team organizations. The discussions of these concepts will be driven by case studies of past failures and successes in real-world software systems. The course will be hands-on and involve a semester-long project where the students will work in teams and collaborate with other teams to design, test, and deploy a complex software system. This course is aimed at both undergraduate and graduate students who are interested in the role of a software architect or designer in an organization.
 
-## Prerequisite
+# Prerequisite
 
 - Intermediate programming skills and/or experience with building medium-size programs (e.g., 17-214)
 - Experience with unit tests and version control systems (e.g., Git)
@@ -29,32 +29,21 @@ After taking this course, students will be able to:
 
 # Course Philosophy 
 
-## Hands-on Experience in Multi-Team Project
-Interesting design challenges usually only arise in complex systems and can only be fully understood via first-hand experience. Therefore, teams in this course will work together on a single project to cooperatively build a complex system that involves interesting design decisions and discussions of interfaces between different teams. We will provide support structures to help you navigate potential cross-team issues. 
+## Hands-on Experience in a Collaborative, Multi-Team Project
+Interesting design challenges usually arise in complex systems and can only be fully understood via first-hand experience. Therefore, teams in this course will work together on a single project to collaborative build a complex system that involves interesting design decisions and discussions of interfaces between different teams. We will provide support structures to help you navigate potential cross-team issues. 
 
-## Growth Mindset & Learning from Failure 
-When working on complex design problems, especially when working in large teams over a longer time, design issues will inevitably arise. So no worries, in this course, we embrace a growth mindset and encourage students to see challenges in the course project as an opportunity to learn based on the motto: “If you fail and you know why you succeeded. If you succeed and you don’t know why you failed”. When grading the course project, we focus more on the semester-long continuous growth and end-of-semester learning outcome rather than perfection in the first attempt.    
+## Growth Mindset & Learning from Failures 
+When working on a complex software project, design issues and challenges will inevitably arise. In this course, we embrace a growth mindset and encourage students to see challenges in the project as an opportunity to learn based on the motto: “If you fail and you know why, you've succeeded. If you succeed and you don’t know why, you've failed”. We will focus on continuous, semester-long improvements, rather than achieving perfection in the first attempt.    
 
 ## Active Student Participation  
 Educational research shows that active student participation in lectures is crucial for ensuring a deep understanding of the material \[MIS\]. So rather than just presenting design principles in a traditional lecture, our lectures are based on real-world case studies from which we will derive design principles together.
 
-## Interleaving of Course Topics
-Learning science has shown that interleaving different topics throughout a course is more effective than discussing topics individually in large blocks \[MIS\]. Furthermore, the process of software design requires optimizing the trade-off between multiple quality attributes at the same time. Therefore, this course is structured to interleave design principles and other design objects throughout the semester. While this type of course design has been shown to objectively increase retention of knowledge and forming connections, it has also been shown that students subjectively feel that they learn less. **So don’t be discouraged! Even though it might feel like your learning progress is slower, you’re actually learning more this way!**
-
-## Exit Tickets after each Lecture
-Research in learning science has shown that student retention of learned material is most strongly impacted by the number of times students try to recall the material, such as in the format of after-lecture quizzes \[MIS\]. To support student learning, we will establish a short quiz to let students summarize each lecture. This helps us to identify common misconceptions right after each lecture and helps you to form long-term memories. The completion of weekly summaries will contribute to your participation grade.
-
 \[MIS\]: Brown, Peter C., Henry L. Roediger III, and Mark A. McDaniel. Make it stick: The science of successful learning. Harvard University Press, 2014.
 
-# Multi-Team Course Project
-Students will be split into teams of five. All teams will collaborate with each other to work on a single software system to develop a social media platform. Each team will focus on one part of the system and needs to discuss interfaces and system-wide concerns with other teams. To simplify cross-team communication, we recommend that each team designates one team member to serve as a “facade”. Some parts of some recitations will be used as a platform for all students to collectively discuss and reflect on the overall system-wide design and teamwork. 
-While each team is responsible to write their own unit tests and consider quality attributes in their decisions, one team, the “*quality team*”, will be responsible to design and implement a testbed infrastructure to assess system-level quality attributes of the system, and identify shortcomings of the evolving system.
-
 # Assessments
-Students learn more by applying and explaining ideas to others, thus, the course requires the following activities that determine the final grade:
-- **25% Homework**: 5-6 light-weight homeworks mostly focusing on software design problems from case studies discussed in class
+- **25% Homework**: 5-6 individual homeworks mostly focusing on software design problems from case studies discussed in class
 - **45% Project**: Individual reflection (via final report), design critiques, design documents, project presentation, functionality of the final result. Adjustments can be made based on outstanding effort or lack of effort
-- **20% Exams** : Handwritten notes are allowed, no digital devices or printouts 
+- **20% Exams** : In person, open-book midterm & final 
 - **10% Participation**, Active participation in class discussions, completion of end-of-lecture exit tickets. Each submission that shows a reasonable effort gets 100%, even if there are misunderstandings. Everyone gets 3 free passes
 
 # Course and Grading Policies
@@ -64,14 +53,10 @@ We understand that studying during a pandemic is challenging and that some stude
 Every student receives 7 tokens that they can spend throughout the semester in the following ways:
 -  For each token a student can submit a homework assignment 1 day late (with 7 tokens a student can submit multiple homeworks one day late each or a single homework up to 7 days late).
 - For three tokens a student can redo an individual homework assignment and resubmit. The earlier submission is discarded and the regraded assignment counts toward the final grade. Each homework can be resubmitted only once. Resubmissions must be received before the final presentation.
-- For one token a student can submit a reading quiz late (any time before the final presentation) or resubmit a graded reading quiz.
 - Remaining tokens at the end of the semester are counted as one participation day each.
 
 If a student runs out of tokens, individual assignments receive a penalty of 15% per day.
 Exceptions to this policy will be made at the discretion of the instructors in important circumstances, almost always involving a family or medical emergency — you can ask your academic advisor or the Dean of Student Affairs requesting the exception on your behalf. For accommodations related to remote teaching, we try to be flexible: please contact the instructors. Please communicate also with your team about potential timing issues.
-
-## Regrading policy
-If you have objections regarding the assigned points for a certain assessment, please email the grader of your assignment and/or instructor directly within one week of the grades being posted, or no later than one week before final grades are due in the case of regrading the final homework. Your email should contain well-grounded reasons for why the points do not seem to reflect your learning outcome in the submitted assignment. 
 
 ## Participation policy
 Class participation will be graded by in-class engagement, including asking relevant questions based on a critical review of required readings and lectures, preparation for any in-class exercises, and responses on the class discussion board. Giving wrong answers during in-class sessions does not negatively affect your grade, because we don’t expect you to do perfect but to try to get better.
