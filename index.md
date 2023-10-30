@@ -16,6 +16,11 @@ This course teaches students how to design complex, large-scale software systems
 - Experience with unit tests and version control systems (e.g., Git)
 - An interest in learning from failures and a growth mindset
 
+# Instructors
+
+- [Eunsuk Kang](https://eskang.github.io/)
+- [Tobias Dürschmid](https://tobiasduerschmid.github.io/)
+ 
 # Learning Objectives
 
 After taking this course, students will be able to: 
@@ -74,8 +79,4 @@ If you have any questions regarding plagiarism or cheating, please ask us as soo
 # Student Wellness
 As a student, you may experience a range of challenges that can interfere with learning, such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may diminish your academic performance and/or reduce your ability to participate in daily activities. CMU services are available, and treatment does work. You can learn more about confidential mental health services available on campus at the Counseling and Psychological Services website. Support is always available (24/7) from Counseling and Psychological Services: 412-268-2922.
 
-# Instructors
-
-- [Eunsuk Kang](https://eskang.github.io/)
-- [Tobias Dürschmid](https://tobiasduerschmid.github.io/)
 
