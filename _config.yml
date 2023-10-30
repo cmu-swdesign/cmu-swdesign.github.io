@@ -20,7 +20,7 @@ author: Eunsuk Kang & Tobias Dürschmid
 ###############################################
 
 navbar-links:
-#  About Me: "aboutme"
+   Syllabus: "syllabus"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
