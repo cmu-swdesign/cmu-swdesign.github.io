@@ -28,9 +28,9 @@ After taking this course, students will be able to:
 - Explain how to adapt the software design process to fit different domains, such as robotics, web apps, mobile apps, and medical systems
 - Collaborate across teams to design & build complex software that cannot be built by a single development team
 - Identify, describe, and prioritize relevant requirements for a given design problem
-- Generate a list of viable design solutions given prioritized requirements 
+- Generate a list of viable design solutions that appropriately satisfy the trade-offs between given requirements 
 - Apply appropriate abstractions & modeling techniques to communicate and document design solutions
-- Evaluate design solutions based on their satisfaction of common design principles and prioritized requirements
+- Evaluate design solutions based on their satisfaction of common design principles and the trade-offs between different requirements
 
 # Course Philosophy 
 
