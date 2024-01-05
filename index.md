@@ -74,7 +74,7 @@ Apr 15 Mon | [TBD] | |
 Apr 17 Wed | [TBD] | | 
 Apr 19 Fri |  | | 
 Apr 22 Mon | Project presentations  | | 
-Apr 24 Med | Course review | | 
+Apr 24 Wed | Course review | | 
 
 # Learning Objectives
 
