@@ -37,10 +37,10 @@ Jan 19 Fri |   | |
 Jan 22 Mon |  Problem vs. solution space | | 
 Jan 24 Wed |  Design abstractions | | 
 Jan 26 Fri |  | | 
-Jan 29 Mon | Design space exploration | |
-Jan 31 Wed | Generating design alternatives | |
+Jan 29 Mon | Quality attributes & trade-offs | |
+Jan 31 Wed | Design space exploration | |
 Feb 2 Fri | | | 
-Feb 5 Mon | Quality attributes & trade-offs | | 
+Feb 5 Mon | Generating design alternatives | | 
 Feb 7 Wed | Design for change | |
 Feb 9 Fri | | | 
 Feb 12 Mon | Design for change (continued) | | 
