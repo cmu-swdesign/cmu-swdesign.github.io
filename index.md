@@ -28,6 +28,10 @@ This course teaches students how to design complex, large-scale software systems
 - [Tobias Dürschmid](https://tobiasduerschmid.github.io/) (co-instructor)
 - [Parv Kapoor](https://parvkpr.github.io/) (TA)
 
+### Readings
+
+There is no single official textbook for this course, but instead various readings will be assigned from academic and industry articles, book chapters, blog posts, and videos. 
+
 # Class Schedule 
 ### (under construction)
 
