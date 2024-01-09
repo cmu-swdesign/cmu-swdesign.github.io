@@ -20,6 +20,7 @@ This course teaches students how to design complex, large-scale software systems
 
 ### Time & Location
 - Lectures: Mon & Wed, 9:30-10:50 AM Scaife Hall (SH) 236
+- Recitation: Friday, 10:00-10:50 AM Scaife Hall (SH) 238
 
 ### Course Staff
 
