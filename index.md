@@ -12,7 +12,7 @@ This course teaches students how to design complex, large-scale software systems
 
 # Logistics
 
-### Prerequisite
+### Prerequisites
 
 - Intermediate programming skills and/or experience with building medium-size programs (e.g., 17-214, 17-313)
 - Experience with unit tests and version control systems (e.g., Git)
