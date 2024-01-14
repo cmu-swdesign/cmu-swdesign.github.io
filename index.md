@@ -30,15 +30,15 @@ This course teaches students how to design complex, large-scale software systems
 
 ### Readings
 
-There is no single official textbook for this course. Instead, readings will be assigned from academic and industry articles, book chapters, blog posts, and videos (see the schedule below). 
+There is no single official textbook for this course. Instead, readings will be assigned from academic and industry articles, book chapters, blog posts, and videos (schedule below). Please see Canvas for more information on readings.
 
 # Class Schedule 
 ### (under construction)
 
 Date | Topic | Reading | Assignment
 -| - | - | -
-Jan 17 Wed | Introduction and motivation | | 
-Jan 19 Fri |   | | 
+Jan 17 Wed | Introduction and motivation | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 3 |  
+Jan 19 Fri | Teamwork Guidelines  | | 
 Jan 22 Mon |  Problem vs. solution space | | 
 Jan 24 Wed |  Design abstractions | | 
 Jan 26 Fri |  | | 
