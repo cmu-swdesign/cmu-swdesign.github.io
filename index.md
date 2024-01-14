@@ -30,7 +30,7 @@ This course teaches students how to design complex, large-scale software systems
 
 ### Readings
 
-There is no single official textbook for this course. Instead, readings will be assigned from academic and industry articles, book chapters, blog posts, and videos (schedule below). Please see Canvas for more information on readings.
+There is no single official textbook for this course. Instead, readings will be assigned from academic and industry articles, book chapters, blog posts, and videos (schedule below). Please see Canvas for more information on the readings.
 
 # Class Schedule 
 ### (under construction)
