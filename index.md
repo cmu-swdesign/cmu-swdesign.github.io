@@ -39,7 +39,7 @@ Date | Topic | Reading | Assignment
 -| - | - | -
 Jan 17 Wed | Introduction and motivation | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 3 |  
 Jan 19 Fri | Teamwork Guidelines  | | 
-Jan 22 Mon |  Problem vs. solution space | | 
+Jan 22 Mon |  Problem vs. solution space | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 8 | 
 Jan 24 Wed |  Design abstractions | | 
 Jan 26 Fri |  | | 
 Jan 29 Mon | Quality attributes & trade-offs | |
