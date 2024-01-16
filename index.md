@@ -40,15 +40,15 @@ Date | Topic | Reading | Assignment
 Jan 17 Wed | Introduction and motivation | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 3 |  
 Jan 19 Fri | Teamwork guidelines  | | 
 Jan 22 Mon |  Problem vs. solution space | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 8 | 
-Jan 24 Wed |  Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 9 | 
+Jan 24 Wed |  Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 9 | HW1 out
 Jan 26 Fri |  Modeling tools & tips | | 
 Jan 29 Mon | Quality attributes & trade-offs | |
-Jan 31 Wed | Design space exploration | |
+Jan 31 Wed | Design space exploration | | HW1 due; M1 out
 Feb 2 Fri | | | 
 Feb 5 Mon | Generating design alternatives | | 
 Feb 7 Wed | Design for change | |
 Feb 9 Fri | | | 
-Feb 12 Mon | Design for change (continued) | | 
+Feb 12 Mon | Design for change (continued) | | M1 due
 Feb 14 Wed | Design for interoperability | |
 Feb 16 Fri | | |
 Feb 19 Mon | Design for reuse | |
