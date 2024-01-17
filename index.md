@@ -37,7 +37,7 @@ There is no single official textbook for this course. Instead, readings will be 
 
 Date | Topic | Reading | Assignment
 -| - | - | -
-Jan 17 Wed | [Introduction and motivation](slides/Lecture 1_ Introduction.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 3 |  
+Jan 17 Wed | [Introduction and motivation](slides/Lecture 1_Introduction.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 3 |  
 Jan 19 Fri | Teamwork guidelines  | | 
 Jan 22 Mon |  Problem vs. solution space | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 8 | 
 Jan 24 Wed |  Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 9 | HW1 out
