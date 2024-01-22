@@ -33,13 +33,12 @@ This course teaches students how to design complex, large-scale software systems
 There is no single official textbook for this course. Instead, readings will be assigned from academic and industry articles, book chapters, blog posts, and videos. Please see Canvas for more information about the readings.
 
 # Class Schedule 
-### (under construction)
 
 Date | Topic | Reading | Assignment
 -| - | - | -
 Jan 17 Wed | [Introduction and motivation](slides/Lecture-1-Introduction.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 3 |  
-Jan 19 Fri | Teamwork guidelines  | | 
-Jan 22 Mon |  Problem vs. solution space | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
+Jan 19 Fri | [Teamwork guidelines](slides/Recitation-1-Teamwork.pdf)  | | 
+Jan 22 Mon |  [Problem vs. solution space](slides/Lecture-2-Problem-Space.pdf) | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
 Jan 24 Wed |  Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | HW1 out
 Jan 26 Fri |  Modeling tools & tips | | 
 Jan 29 Mon | Quality attributes & trade-offs | |
