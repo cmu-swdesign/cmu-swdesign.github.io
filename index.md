@@ -40,7 +40,7 @@ Jan 17 Wed | [Introduction and motivation](slides/Lecture-1-Introduction.pdf) | 
 Jan 19 Fri | [Teamwork guidelines](slides/Recitation-1-Teamwork.pdf)  | | 
 Jan 22 Mon |  [Problem vs. solution space](slides/Lecture-2-Problem-Space.pdf) | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
 Jan 24 Wed |  Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | HW1 out
-Jan 26 Fri |  Modeling tools & tips | | 
+Jan 26 Fri |  Modeling exercises | | 
 Jan 29 Mon | Quality attributes & trade-offs | |
 Jan 31 Wed | Design space exploration | | HW1 due; M1 out
 Feb 2 Fri | | | 
