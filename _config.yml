@@ -23,7 +23,6 @@ navbar-links:
    Syllabus: "#learning-objectives"
    Logistics: "#logistics"
    Schedule: "#class-schedule"
-   Assignments: "#assignments"
    
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
