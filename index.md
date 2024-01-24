@@ -41,7 +41,7 @@ Jan 19 Fri | [Teamwork guidelines](slides/Recitation-1-Teamwork.pdf)  | |
 Jan 22 Mon |  [Problem vs. solution space](slides/Lecture-2-Problem-Space.pdf) | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
 Jan 24 Wed |  [Design abstractions](slides/Lecture-3-Design-Abstractions.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | [HW1](assignments/HW1-modeling.pdf) out
 Jan 26 Fri |  Modeling exercises | | 
-Jan 29 Mon | Quality attributes & trade-offs | |
+Jan 29 Mon | Quality attributes & trade-offs |[REQUIRED: Topics in ROS](reading/ROSTopicReading.pdf) |
 Jan 31 Wed | Design space exploration | | HW1 due; M1 out
 Feb 2 Fri | | | 
 Feb 5 Mon | Generating design alternatives | | 
