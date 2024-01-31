@@ -42,7 +42,7 @@ Jan 22 Mon |  [Problem vs. solution space](slides/Lecture-2-Problem-Space.pdf) |
 Jan 24 Wed |  [Design abstractions](slides/Lecture-3-Design-Abstractions.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | [HW1](assignments/HW1-modeling.pdf) out
 Jan 26 Fri |  [Modeling exercises](slides/Recitation-2-Modeling.pdf) | | 
 Jan 29 Mon | [Quality attributes & trade-offs](slides/Lecture-4-Quality-Attributes.pdf) | **Required** [Topics in ROS](reading/ROSTopicReading.pdf) |
-Jan 31 Wed | [Design space exploration](slides/Lecutre-5-Design-Spaces.pdf) | **Required** ([Role of design spaces](reading/ShawDesignSpace-a.pdf)) ([How software designers use them](reading/ShawDesignSpace-b.pdf)) | HW1 due; [M1](assignments/Project-M1.pdf) out
+Jan 31 Wed | [Design space exploration](slides/Lecture-5-Design-Spaces.pdf) | **Required** ([Role of design spaces](reading/ShawDesignSpace-a.pdf)) ([How software designers use them](reading/ShawDesignSpace-b.pdf)) | HW1 due; [M1](assignments/Project-M1.pdf) out
 Feb 2 Fri | | | 
 Feb 5 Mon | Generating design alternatives | | 
 Feb 7 Wed | Design for change | |
