@@ -50,8 +50,8 @@ Feb 9 Fri | | |
 Feb 12 Mon | Design for change (continued) | | M1 due; M2 out
 Feb 14 Wed | Design for interoperability | |
 Feb 16 Fri | | |
-Feb 19 Mon | Design for reuse | |
-Feb 21 Wed | Design for testability | |
+Feb 19 Mon | Design for testability | |
+Feb 21 Wed | Design for reuse| |
 Feb 23 Fri | | |
 Feb 26 Mon | Design review and critique | | M2 due
 Feb 28 Wed | Midterm | | 
