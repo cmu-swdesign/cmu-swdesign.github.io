@@ -50,7 +50,7 @@ Feb 9 Fri | | |
 Feb 12 Mon | Design for change (continued) | | M1 due; M2 out
 Feb 14 Wed | Design for interoperability | **Required** [GDS](https://www.youtube.com/watch?v=1-m_Jjse-cs&pp=ygUMZ2RzIHdlbmRvdmVy) |
 Feb 16 Fri | | |
-Feb 19 Mon | Design for testability | [Chaos Experiments at Netflix](https://arxiv.org/abs/1905.04648) |
+Feb 19 Mon | Design for testability | **Required** [Chaos Experiments at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) |
 Feb 21 Wed | Design for reuse| |
 Feb 23 Fri | | |
 Feb 26 Mon | Design review and critique | | M2 due
