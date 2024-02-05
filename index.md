@@ -44,7 +44,7 @@ Jan 26 Fri |  [Modeling exercises](slides/Recitation-2-Modeling.pdf) | |
 Jan 29 Mon | [Quality attributes & trade-offs](slides/Lecture-4-Quality-Attributes.pdf) | **Required** [Topics in ROS](reading/ROSTopicReading.pdf) |
 Jan 31 Wed | [Design space exploration](slides/Lecture-5-Design-Spaces.pdf) | **Required** ([Role of design spaces](reading/ShawDesignSpace-a.pdf)) ([How software designers use them](reading/ShawDesignSpace-b.pdf)) | HW1 due; [M1](assignments/Project-M1.pdf) out
 Feb 2 Fri | [Exercise: Designing with QAs](slides/Recitation-3-ADD.pdf) | | 
-Feb 5 Mon | Generating design alternatives | | 
+Feb 5 Mon | [Generating design alternatives](slides/Lecture-6-Generate.pdf) | [Decision-Making Principles for Better Software Design Decisions](https://ieeexplore.ieee.org/iel7/52/9585138/09585145.pdf) [List of Some Design Patterns](https://sourcemaking.com/design_patterns)| 
 Feb 7 Wed | Design for change | Information hiding: ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623))|
 Feb 9 Fri | | | 
 Feb 12 Mon | Design for change (continued) | | M1 due; M2 out
