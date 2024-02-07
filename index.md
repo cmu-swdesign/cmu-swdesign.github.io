@@ -51,7 +51,7 @@ Feb 12 Mon | Design for change (continued) | | M1 due; M2 out
 Feb 14 Wed | Design for interoperability | **Required** [GDS](https://www.youtube.com/watch?v=1-m_Jjse-cs&pp=ygUMZ2RzIHdlbmRvdmVy) |
 Feb 16 Fri | | |
 Feb 19 Mon | Design for testability | **Required** [Chaos Experiments at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) |
-Feb 21 Wed | Design for reuse| |
+Feb 21 Wed | Design with reuse| |
 Feb 23 Fri | | |
 Feb 26 Mon | Design review and critique | | M2 due
 Feb 28 Wed | Midterm | | 
@@ -59,14 +59,14 @@ Mar 1 Fri | | | |
 Mar 4 Mon | Spring break; no classes | | 
 Mar 6 Wed | Spring break; no classes | |
 Mar 8 Fri | Spring break; no classes | | 
-Mar 11 Mon | Design processes | | 
+Mar 11 Mon | Design for Reuse | | 
 Mar 13 Wed | Design for scalability | | 
 Mar 15 Fri | | | 
 Mar 18 Mon | Design for robustness | | 
 Mar 20 Wed | Design for robustness | | 
 Mar 22 Fri |  | | 
 Mar 25 Mon | Mid-project design reviews | | 
-Mar 27 Wed | Design with reuse | | 
+Mar 27 Wed | Design Processes | | 
 Mar 29 Fri | | | 
 Apr 1 Mon | Design for security | | 
 Apr 3 Wed | Design for usability | | 
