@@ -46,7 +46,7 @@ Jan 31 Wed | [Design space exploration](slides/Lecture-5-Design-Spaces.pdf) | **
 Feb 2 Fri | [Exercise: Designing with QAs](slides/Recitation-3-ADD.pdf) | | 
 Feb 5 Mon | [Generating design alternatives](slides/Lecture-6-Generate.pdf) | [Decision-Making Principles for Better Software Design Decisions](https://ieeexplore.ieee.org/iel7/52/9585138/09585145.pdf) [List of Some Design Patterns](https://sourcemaking.com/design_patterns)| 
 Feb 7 Wed | [Design for change](slides/Lecture-7-Design-for-Change.pdf) | Information hiding: ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623))|
-Feb 9 Fri | | | 
+Feb 9 Fri | | Brainstorming Design Alternatives | 
 Feb 12 Mon | Design for change (continued) | | M1 due; M2 out
 Feb 14 Wed | Design for interoperability | **Required:** [GDS](https://www.youtube.com/watch?v=1-m_Jjse-cs&pp=ygUMZ2RzIHdlbmRvdmVy)  **Recommended:**[GDS API Example](https://developer.sabre.com/docs/rest_apis/digital_connect/stateless_services/air_exchange_search/v100/reference-documentation#/AirExchangeSearch/AirExchangeSearch)|
 Feb 16 Fri | | |
