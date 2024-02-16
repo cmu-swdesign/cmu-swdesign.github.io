@@ -56,9 +56,9 @@ Feb 23 Fri | | |
 Feb 26 Mon | Design review and critique | | M2 due
 Feb 28 Wed | Midterm | | 
 Mar 1 Fri | | | |
-Mar 4 Mon | Spring break; no classes | | 
-Mar 6 Wed | Spring break; no classes | |
-Mar 8 Fri | Spring break; no classes | | 
+Mar 4 Mon | **Spring break - no classes** | | 
+Mar 6 Wed | **Spring break - no classes** | |
+Mar 8 Fri | **Spring break - no classes** | | 
 Mar 11 Mon | Design for Reuse | | 
 Mar 13 Wed | Design for scalability | | 
 Mar 15 Fri | | | 
