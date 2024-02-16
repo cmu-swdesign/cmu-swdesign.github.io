@@ -40,7 +40,7 @@ Jan 17 Wed | [Introduction and motivation](slides/Lecture-1-Introduction.pdf) | 
 Jan 19 Fri | [Teamwork guidelines](slides/Recitation-1-Teamwork.pdf)  | | 
 Jan 22 Mon |  [Problem vs. solution space](slides/Lecture-2-Problem-Space.pdf) | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
 Jan 24 Wed |  [Design abstractions](slides/Lecture-3-Design-Abstractions.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | [HW1](assignments/HW1-modeling.pdf) out
-Jan 26 Fri |  [Modeling exercises](slides/Recitation-2-Modeling.pdf) | | 
+Jan 26 Fri |  [Exercises: Modeling](slides/Recitation-2-Modeling.pdf) | | 
 Jan 29 Mon | [Quality attributes & trade-offs](slides/Lecture-4-Quality-Attributes.pdf) | **Required** [Topics in ROS](reading/ROSTopicReading.pdf) |
 Jan 31 Wed | [Design space exploration](slides/Lecture-5-Design-Spaces.pdf) | **Required** ([Role of design spaces](reading/ShawDesignSpace-a.pdf)) ([How software designers use them](reading/ShawDesignSpace-b.pdf)) | HW1 due; [M1](assignments/Project-M1.pdf) out
 Feb 2 Fri | [Exercises: Designing with QAs](slides/Recitation-3-ADD.pdf) | | 
