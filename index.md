@@ -50,7 +50,7 @@ Feb 9 Fri | [Brainstorming design alternatives](slides/Recitation-4-Generate.pdf
 Feb 12 Mon | [Design for change (continued)](slides/Lecture-8-Design-for-Change-2.pdf) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | M1 due; [M2](assignments/Project-M2.pdf) out
 Feb 14 Wed | [Design for interoperability](slides/Lecture-9-Interoperability.pdf) | **Required** [GDS](https://www.youtube.com/watch?v=1-m_Jjse-cs&pp=ygUMZ2RzIHdlbmRvdmVy)  **Recommended** [GDS API Example](https://developer.sabre.com/docs/rest_apis/digital_connect/stateless_services/air_exchange_search/v100/reference-documentation#/AirExchangeSearch/AirExchangeSearch)|
 Feb 16 Fri | [Exercises: Changeability & interoperability](slides/Recitation-5-Changeability.pdf) | |
-Feb 19 Mon | Design for testability | **Required** [Chaos Experiments at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) |
+Feb 19 Mon | [Design for testability](slides/Lecture-10-Testability.pdf) | **Required** [Chaos Experiments at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) |
 Feb 21 Wed | Design with reuse| |
 Feb 23 Fri | | |
 Feb 26 Mon | Design review and critique | | M2 due
