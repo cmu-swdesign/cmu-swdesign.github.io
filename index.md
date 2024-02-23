@@ -52,10 +52,10 @@ Feb 14 Wed | [Design for interoperability](slides/Lecture-9-Interoperability.pdf
 Feb 16 Fri | [Exercises: Changeability & interoperability](slides/Recitation-5-Changeability.pdf) | |
 Feb 19 Mon | [Design for testability](slides/Lecture-10-Testability.pdf) | **Required** [Chaos Experiments at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) |
 Feb 21 Wed | [Design with reuse](slides/Lecture-11-DesignWithReuse.pdf)| |
-Feb 23 Fri | | |
-Feb 26 Mon | Design review and critique | | M2 due
+Feb 23 Fri | Midterm preparation | |
+Feb 26 Mon | Design review and critique | | 
 Feb 28 Wed | Midterm | | 
-Mar 1 Fri | | | |
+Mar 1 Fri | | | M2 due |
 Mar 4 Mon | **Spring break - No classes** | | 
 Mar 6 Wed | **Spring break - No classes** | |
 Mar 8 Fri | **Spring break - No classes** | | 
