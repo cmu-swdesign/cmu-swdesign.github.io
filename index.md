@@ -55,7 +55,7 @@ Feb 21 Wed | [Design with reuse](slides/Lecture-11-DesignWithReuse.pdf)| |
 Feb 23 Fri | [Midterm preparation](slides/Recitation-6-Exam-Prep.pdf) | |
 Feb 26 Mon | [Arguing for and reviewing designs](slides/Lecture-12-Design-Review.pdf) | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/)| 
 Feb 28 Wed | Midterm | | 
-Mar 1 Fri | Project office hour | | M2 due; M3 out |
+Mar 1 Fri | Project office hour | | M2 due |
 Mar 4 Mon | **Spring break - No classes** | | 
 Mar 6 Wed | **Spring break - No classes** | |
 Mar 8 Fri | **Spring break - No classes** | | 
