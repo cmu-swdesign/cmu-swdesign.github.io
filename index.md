@@ -59,22 +59,22 @@ Mar 1 Fri | Project office hour | | M2 due |
 Mar 4 Mon | **Spring break - No classes** | | 
 Mar 6 Wed | **Spring break - No classes** | |
 Mar 8 Fri | **Spring break - No classes** | | 
-Mar 11 Mon | Design for Reuse | | 
-Mar 13 Wed | Design for scalability | | 
+Mar 11 Mon | Cross-Team Interface Design| | 
+Mar 13 Wed | Design for Reuse | | 
 Mar 15 Fri | | | 
-Mar 18 Mon | Design for robustness | | 
-Mar 20 Wed | Design for robustness | | 
+Mar 18 Mon | Design for scalability  | | 
+Mar 20 Wed | Design for robustness| | 
 Mar 22 Fri |  | | 
-Mar 25 Mon | Mid-project design reviews | | 
-Mar 27 Wed | Design Processes | | 
+Mar 25 Mon | Design for robustness  | | 
+Mar 27 Wed | Mid-project design reviews  | | 
 Mar 29 Fri | | | 
-Apr 1 Mon | Design for security | | 
-Apr 3 Wed | Design for usability | | 
+Apr 1 Mon | Design Processes| | 
+Apr 3 Wed | Design for security  | | 
 Apr 5 Fri |  | | 
-Apr 8 Mon | Ethical and responsible design | | 
-Apr 10 Wed | Software design & AI | | 
+Apr 8 Mon | Design for usability| | 
+Apr 10 Wed |  Ethical and responsible design |  | 
 Apr 12 Fri | **Spring Carnival - No classes** | | 
-Apr 15 Mon | [TBD] | | 
+Apr 15 Mon | Software design & AI | | 
 Apr 17 Wed | [TBD] | | 
 Apr 19 Fri |  | | 
 Apr 22 Mon | Project presentations  | | 
