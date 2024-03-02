@@ -59,9 +59,9 @@ Mar 1 Fri | Project office hour | | M2 due; [M3](assignments/Project-M3.pdf) out
 Mar 4 Mon | **Spring break - No classes** | | 
 Mar 6 Wed | **Spring break - No classes** | |
 Mar 8 Fri | **Spring break - No classes** | | 
-Mar 11 Mon | Cross-Team Interface Design| | 
-Mar 13 Wed | Design for Reuse | | 
-Mar 15 Fri | | | 
+Mar 11 Mon | Cross-team interface design session | | 
+Mar 13 Wed | Design for reuse | | 
+Mar 15 Fri | Midterm review | | 
 Mar 18 Mon | Design for scalability  | | 
 Mar 20 Wed | Design for robustness| | 
 Mar 22 Fri |  | | 
