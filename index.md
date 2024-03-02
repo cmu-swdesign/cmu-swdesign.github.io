@@ -79,6 +79,7 @@ Apr 17 Wed | [TBD] | |
 Apr 19 Fri |  | | 
 Apr 22 Mon | Project presentations  | | 
 Apr 24 Wed | Course review | | 
+May 3 Fri | Final exam (8:30 am - 11:30 am)||
 
 # Learning Objectives
 
