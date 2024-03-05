@@ -60,8 +60,7 @@ Mar 4 Mon | **Spring break - No classes** | |
 Mar 6 Wed | **Spring break - No classes** | |
 Mar 8 Fri | **Spring break - No classes** | | 
 Mar 11 Mon | Cross-team interface design session |  **Required** Please carefully read [M3](assignments/Project-M3.pdf) | 
-Mar 13 Wed | Design for reuse |  [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 8, [Reusability affecting factors and software metrics for reusability: A systematic literature review
-](https://onlinelibrary.wiley.com/doi/pdf/10.1002/spe.2961?casa_token=5_UkbmA_PFUAAAAA:udiiG3KpCGsMOKaFfFQYGfnVAMQKHGZ4DlUP8InmftHh1hofjm7HSo-XZLGe-nTyoxf44ZFEv9lLVfMO)| 
+Mar 13 Wed | Design for reuse |  [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 8, [Reusability affecting factors and software metrics for reusability: A systematic literature review](https://onlinelibrary.wiley.com/doi/pdf/10.1002/spe.2961?casa_token=5_UkbmA_PFUAAAAA:udiiG3KpCGsMOKaFfFQYGfnVAMQKHGZ4DlUP8InmftHh1hofjm7HSo-XZLGe-nTyoxf44ZFEv9lLVfMO)| 
 Mar 15 Fri | Midterm review | | 
 Mar 18 Mon | Design for scalability  | | 
 Mar 20 Wed | Design for robustness| | 
