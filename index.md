@@ -68,7 +68,7 @@ Mar 22 Fri |  | |
 Mar 25 Mon | Design for robustness  | | 
 Mar 27 Wed | Mid-project design reviews  | | 
 Mar 29 Fri | | | 
-Apr 1 Mon | Design Processes| | 
+Apr 1 Mon | Design Processes| **Required** [Agile Software Development with the Scrum Process](https://www.atlassian.com/agile/scrum)  | 
 Apr 3 Wed | Design for security  | | 
 Apr 5 Fri |  | | 
 Apr 8 Mon | Design for usability| | 
