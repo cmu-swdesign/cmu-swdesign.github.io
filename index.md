@@ -64,21 +64,21 @@ Mar 13 Wed | [Design for reuse](slides/Lecture-14-DesignForReuse.pdf) | **Recomm
 Mar 15 Fri | Midterm review | | 
 Mar 18 Mon | Design for scalability  | | 
 Mar 20 Wed | Design for robustness| | HW2 due
-Mar 22 Fri |  | | M3 due 
+Mar 22 Fri |  | | M3 due; M4 out
 Mar 25 Mon | Design for robustness  | | 
 Mar 27 Wed | Mid-project design reviews  | | 
-Mar 29 Fri | | | 
+Mar 29 Fri | | | M4 due; M5 out
 Apr 1 Mon | Design Processes| **Required** [Agile Software Development with the Scrum Process](https://www.atlassian.com/agile/scrum)  | 
 Apr 3 Wed | Design for security  | | 
-Apr 5 Fri |  | | 
+Apr 5 Fri |  | | M5 due; M6 out
 Apr 8 Mon | Design for usability| | 
 Apr 10 Wed |  Ethical and responsible design |  | 
 Apr 12 Fri | **Spring Carnival - No classes** | | 
 Apr 15 Mon | Software design & AI | | 
 Apr 17 Wed | [TBD] | | 
-Apr 19 Fri |  | | 
-Apr 22 Mon | Project presentations  | | 
-Apr 24 Wed | Course review | | 
+Apr 19 Fri |  | | M6 due
+Apr 22 Mon | Course review  | | 
+Apr 24 Wed | Project presentations | | 
 May 3 Fri | Final exam (8:30 am - 11:30 am)||
 
 # Learning Objectives
