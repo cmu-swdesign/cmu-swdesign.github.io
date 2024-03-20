@@ -62,7 +62,7 @@ Mar 8 Fri | **Spring break - No classes** | |
 Mar 11 Mon | [Cross-team interface design session](slides/Lecture-13-FeedbackAndProject.pptx.pdf) |  **Required** Please carefully read [M3](assignments/Project-M3.pdf) | 
 Mar 13 Wed | [Design for reuse](slides/Lecture-14-DesignForReuse.pdf) | **Recommended** [A, T, AT, 0-Modules](https://icsa-conferences.org/series/WICSA/1999/final/fuchs.pdf) <br>  [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 8, 30, 31, 32 <br> Pipes & Filters: [Pattern-oriented Software Architecture V1](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019577802604436) Chapter 2.2 <br> Research: [Reusability affecting factors and software metrics for reusability: A systematic literature review](https://onlinelibrary.wiley.com/doi/pdf/10.1002/spe.2961?casa_token=5_UkbmA_PFUAAAAA:udiiG3KpCGsMOKaFfFQYGfnVAMQKHGZ4DlUP8InmftHh1hofjm7HSo-XZLGe-nTyoxf44ZFEv9lLVfMO)|  [HW2](assignments/HW2-Design-for-Reuse.pdf) out
 Mar 15 Fri | [Midterm review](slides/Recitation-7-Midterm-Review.pdf) | | 
-Mar 18 Mon | [Design for scalability](slides/Lecture-15-Design-for-Scalability.pdf)  | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
+Mar 18 Mon | [Design for scalability](slides/Lecture-15-16-Design-for-Scalability.pdf)  | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
 Mar 20 Wed | Design for scalability (continued) | | HW2 due
 Mar 22 Fri | Exercises: Scalability | | M3 due; M4 out
 Mar 25 Mon | Design for robustness  | | 
