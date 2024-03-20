@@ -76,7 +76,7 @@ Apr 10 Wed |  Ethical and responsible design |  |
 Apr 12 Fri | **Spring Carnival - No classes** | | 
 Apr 15 Mon | Software design & AI | | 
 Apr 17 Wed | [TBD] | | 
-Apr 19 Fri |  | | M6 due
+Apr 19 Fri |  | | M5 due
 Apr 22 Mon | Course review  | | 
 Apr 24 Wed | Project presentations | | 
 May 3 Fri | Final exam (8:30 am - 11:30 am)||
