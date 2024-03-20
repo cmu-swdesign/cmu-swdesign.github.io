@@ -66,11 +66,11 @@ Mar 18 Mon | [Design for scalability](slides/Lecture-15-16-Design-for-Scalabilit
 Mar 20 Wed | [Design for scalability (continued)](slides/Lecture-15-16-Design-for-Scalability.pdf) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | HW2 due
 Mar 22 Fri | Exercises: Scalability | | M3 due; M4 out
 Mar 25 Mon | Design for robustness  | | 
-Mar 27 Wed | Mid-project design reviews  | | 
-Mar 29 Fri | | | M4 due; M5 out
+Mar 27 Wed | Design for robustness (continued) | | 
+Mar 29 Fri | | | M4a due
 Apr 1 Mon | Design Processes| **Required** [Agile Software Development with the Scrum Process](https://www.atlassian.com/agile/scrum)  | 
 Apr 3 Wed | Design for security  | | 
-Apr 5 Fri |  | | M5 due; M6 out
+Apr 5 Fri |  | | M4b due; M5 out
 Apr 8 Mon | Design for usability| | 
 Apr 10 Wed |  Ethical and responsible design |  | 
 Apr 12 Fri | **Spring Carnival - No classes** | | 
