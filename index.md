@@ -64,14 +64,14 @@ Mar 13 Wed | [Design for reuse](slides/Lecture-14-DesignForReuse.pdf) | **Recomm
 Mar 15 Fri | [Midterm review](slides/Recitation-7-Midterm-Review.pdf) | | 
 Mar 18 Mon | [Design for scalability](slides/Lecture-15-16-Design-for-Scalability.pdf)  | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
 Mar 20 Wed | [Design for scalability (continued)](slides/Lecture-15-16-Design-for-Scalability.pdf) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | HW2 due
-Mar 22 Fri | Exercises: Scalability | | M3 due; M4 out
-Mar 25 Mon | Design for robustness  | | 
+Mar 22 Fri | Exercises: Scalability | | 
+Mar 25 Mon | Design for robustness  | | M3 due; M4 out
 Mar 27 Wed | Design for robustness (continued) | | 
-Mar 29 Fri | | | M4a due
-Apr 1 Mon | Design Processes| **Required** [Agile Software Development with the Scrum Process](https://www.atlassian.com/agile/scrum)  | 
+Mar 29 Fri | | | 
+Apr 1 Mon | Design Processes| **Required** [Agile Software Development with the Scrum Process](https://www.atlassian.com/agile/scrum)  | M4a due
 Apr 3 Wed | Design for security  | | 
-Apr 5 Fri |  | | M4b due; M5 out
-Apr 8 Mon | Design for usability| | 
+Apr 5 Fri |  | | 
+Apr 8 Mon | Design for usability| | M4b due; M5 out
 Apr 10 Wed |  Ethical and responsible design |  | 
 Apr 12 Fri | **Spring Carnival - No classes** | | 
 Apr 15 Mon | Software design & AI | | 
