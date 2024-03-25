@@ -68,11 +68,11 @@ Mar 22 Fri | [Exercises: Scalability](slides/Recitation-8-Scalability.pdf) | |
 Mar 25 Mon | [Design for robustness](slides/Lecture-17-Design-for-Robustness.pdf) | [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | M3 due; M4 out
 Mar 27 Wed | Design for robustness (continued) | | 
 Mar 29 Fri | | | 
-Apr 1 Mon | Design Processes| **Required** [Agile Software Development with the Scrum Process](https://www.atlassian.com/agile/scrum)  | M4a due
-Apr 3 Wed | Design for security  | | 
+Apr 1 Mon | Design Processes| **Required** [Agile Software Development with the Scrum Process](https://www.atlassian.com/agile/scrum)  | 
+Apr 3 Wed | Design for security  | | M4a due
 Apr 5 Fri |  | | 
-Apr 8 Mon | Design for usability| | M4b due; M5 out
-Apr 10 Wed |  Ethical and responsible design |  | 
+Apr 8 Mon | Design for usability| | 
+Apr 10 Wed |  Ethical and responsible design |  | M4b due; M5 out
 Apr 12 Fri | **Spring Carnival - No classes** | | 
 Apr 15 Mon | Software design & AI | | 
 Apr 17 Wed | [TBD] | | 
