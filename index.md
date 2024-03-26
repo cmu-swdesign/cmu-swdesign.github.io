@@ -65,7 +65,7 @@ Mar 15 Fri | [Midterm review](slides/Recitation-7-Midterm-Review.pdf) | |
 Mar 18 Mon | [Design for scalability](slides/Lecture-15-16-Design-for-Scalability.pdf)  | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
 Mar 20 Wed | [Design for scalability (continued)](slides/Lecture-15-16-Design-for-Scalability.pdf) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | HW2 due
 Mar 22 Fri | [Exercises: Scalability](slides/Recitation-8-Scalability.pdf) | | 
-Mar 25 Mon | [Design for robustness](slides/Lecture-17-Design-for-Robustness.pdf) | [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | M3 due; M4 out
+Mar 25 Mon | [Design for robustness](slides/Lecture-17-Design-for-Robustness.pdf) | [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | M3 due; [M4](assignments/Project-M4.pdf) out
 Mar 27 Wed | Design for robustness (continued) | | 
 Mar 29 Fri | | | 
 Apr 1 Mon | Design Processes| **Required** [Agile Software Development with the Scrum Process](https://www.atlassian.com/agile/scrum)  | 
