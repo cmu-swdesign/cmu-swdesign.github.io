@@ -66,7 +66,7 @@ Mar 18 Mon | [Design for scalability](slides/Lecture-15-16-Design-for-Scalabilit
 Mar 20 Wed | [Design for scalability (continued)](slides/Lecture-15-16-Design-for-Scalability.pdf) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | HW2 due
 Mar 22 Fri | [Exercises: Scalability](slides/Recitation-8-Scalability.pdf) | | 
 Mar 25 Mon | [Design for robustness](slides/Lecture-17-18-Design-for-Robustness.pdf) | [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | M3 due; [M4](assignments/Project-M4.pdf) out
-Mar 27 Wed | [Design for robustness (continued)](slides/Lecture-17-18-Design-for-Robustness.pdf) | | 
+Mar 27 Wed | [Design for robustness (continued)](slides/Lecture-17-18-Design-for-Robustness.pdf) | [Patterns for Fault Tolerant Software](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576951304436) Ch. 1, 2 | 
 Mar 29 Fri | | | 
 Apr 1 Mon | Design Processes| **Required** [Agile Software Development with the Scrum Process](https://www.atlassian.com/agile/scrum)  | 
 Apr 3 Wed | Design for security  | | M4a due
