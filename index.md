@@ -74,8 +74,8 @@ Apr 5 Fri |  [Project Risk Storming](slides/Recitation-10-Riskstorming.pdf) | [R
 Apr 8 Mon | Design for usability| | 
 Apr 10 Wed |  Ethical and responsible design |  | M4b due; M5 out
 Apr 12 Fri | **Spring Carnival - No classes** | | 
-Apr 15 Mon | Software design & AI | | 
-Apr 17 Wed | [TBD] | | 
+Apr 15 Mon | [TBD] | | 
+Apr 17 Wed | Designing AI-based systems | | 
 Apr 19 Fri |  | | M5 due
 Apr 22 Mon | Course review  | | 
 Apr 24 Wed | Project presentations | | 
