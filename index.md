@@ -117,8 +117,9 @@ Educational research shows that active student participation in lectures is cruc
 We understand that studying during a pandemic is challenging and that some students have conflicting deadlines or are distracted by interviewing for jobs. We therefore build flexibility and a safety net directly into the rubric. If you need additional accommodations, please contact us.
 
 Every student receives 7 tokens that they can spend throughout the semester in the following ways:
--  For each token a student can submit a homework assignment 1 day late (with 7 tokens a student can submit multiple homeworks one day late each or a single homework up to 7 days late).
-- For three tokens a student can redo an individual homework assignment and resubmit. The earlier submission is discarded and the regraded assignment counts toward the final grade. Each homework can be resubmitted only once. Resubmissions must be received before the final presentation.
+- For each token a student can submit a homework assignment 1 day late.
+- For three tokens a student can redo an individual homework assignment and resubmit. The earlier submission is discarded and the regraded assignment counts toward the final grade. Resubmissions must be received before the final presentation.
+- For example, with 7 tokens a student can submit multiple homeworks one day late each or redo one homework twice and submit another homework one day lat. 
 - Remaining tokens at the end of the semester are counted as one participation day each.
 
 If a student runs out of tokens, individual assignments receive a penalty of 15% per day.
