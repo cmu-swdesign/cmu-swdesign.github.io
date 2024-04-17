@@ -75,7 +75,7 @@ Apr 8 Mon | [Design for usability](slides/Lecture-21-Design-for-usability.pdf) |
 Apr 10 Wed |  [Ethical and responsible design](slides/Lecture-22-Responsible-Design.pdf) | [Algorithmic Accountability](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf) | M4b due; [M5](assignments/Project-M5.pdf) out
 Apr 12 Fri | **Spring Carnival - No classes** | | 
 Apr 15 Mon | Project work time | | 
-Apr 17 Wed | Designing AI-based systems |  | 
+Apr 17 Wed | [Designing AI-based systems](slides/Lecture-23-Design-for-AISE.pdf) |  | 
 Apr 19 Fri | Guest lecture | | M5 due 
 Apr 22 Mon | Course review  | | HW3 due 
 Apr 24 Wed | Project presentations | |
