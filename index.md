@@ -79,7 +79,7 @@ Apr 17 Wed | [Designing AI-based systems](slides/Lecture-23-Design-for-AISE.pdf)
 Apr 19 Fri | Guest lecture | | M5 due 
 Apr 22 Mon | Course review  | | HW3 due 
 Apr 24 Wed | Project presentations | | 
-May 3 Fri | Final exam (8:30 am - 11:30 am)| |
+May 3 Fri | Final exam (8:30 am - 11:30 am) in Scaife Hall (SH) 238 (Room of Recitation)| |
 
 # Learning Objectives
 
