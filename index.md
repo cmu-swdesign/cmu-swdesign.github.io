@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 17-423/723 Designing Large-scale Software Systems
-subtitle: Spring 2024
+subtitle: Spring 2025
 ---
 
 # Course Description
@@ -19,20 +19,19 @@ This course teaches students how to design complex, large-scale software systems
 - An interest in learning from failures and a growth mindset
 
 ### Time & Location
-- Lectures: Mon & Wed, 9:30-10:50 AM Scaife Hall (SH) 236
-- Recitation: Friday, 10:00-10:50 AM Scaife Hall (SH) 238
+- Lectures: Mon & Wed, 9:30-10:50 AM SH 238
+- Recitation: Friday, 10:00-10:50 AM HH B103
 
 ### Course Staff
 
-- [Eunsuk Kang](https://eskang.github.io/) (co-instructor)
-- [Tobias Dürschmid](https://tobiasduerschmid.github.io/) (co-instructor)
-- [Parv Kapoor](https://parvkpr.github.io/) (TA)
+- Instructor: [Eunsuk Kang](https://eskang.github.io/) 
+- TAs: **TBD**
 
 ### Readings
 
 There is no single official textbook for this course. Instead, readings will be assigned from academic and industry articles, book chapters, blog posts, and videos. Please see Canvas for more information about the readings.
 
-# Class Schedule 
+# Class Schedule (**from 2024; to be updated**)
 
 Date | Topic | Reading | Assignment
 -| - | - | -
