@@ -24,61 +24,61 @@ This course teaches students how to design complex, large-scale software systems
 
 ### Course Staff
 
-- Instructor: [Eunsuk Kang](https://eskang.github.io/) 
-- TAs: **TBD**
+- Instructor: [Eunsuk Kang](https://eskang.github.io/) (eunsukk)
+- TA: Shivam Bansal (shivamb)
 
 ### Readings
 
 There is no single official textbook for this course. Instead, readings will be assigned from academic and industry articles, book chapters, blog posts, and videos. Please see Canvas for more information about the readings.
 
-# Class Schedule (**from 2024; to be updated**)
+# Class Schedule (tentative)
 
 Date | Topic | Reading | Assignment
 -| - | - | -
-Jan 17 Wed | [Introduction and motivation](slides/Lecture-1-Introduction.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 3 |  
-Jan 19 Fri | [Teamwork guidelines](slides/Recitation-1-Teamwork.pdf)  | | 
-Jan 22 Mon |  [Problem vs. solution space](slides/Lecture-2-Problem-Space.pdf) | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
-Jan 24 Wed |  [Design abstractions](slides/Lecture-3-Design-Abstractions.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | [HW1](assignments/HW1-modeling.pdf) out
-Jan 26 Fri |  [Exercises: Modeling](slides/Recitation-2-Modeling.pdf) | | 
-Jan 29 Mon | [Quality attributes & trade-offs](slides/Lecture-4-Quality-Attributes.pdf) | **Required** [Topics in ROS](reading/ROSTopicReading.pdf) |
-Jan 31 Wed | [Design space exploration](slides/Lecture-5-Design-Spaces.pdf) | **Required** ([Role of design spaces](reading/ShawDesignSpace-a.pdf)) ([How software designers use them](reading/ShawDesignSpace-b.pdf)) | HW1 due; [M1](assignments/Project-M1.pdf) out
-Feb 2 Fri | [Exercises: Designing with QAs](slides/Recitation-3-ADD.pdf) | | 
-Feb 5 Mon | [Generating design alternatives](slides/Lecture-6-Generate.pdf) | [Decision-Making Principles for Better Software Design Decisions](https://ieeexplore.ieee.org/iel7/52/9585138/09585145.pdf) [List of Some Design Patterns](https://sourcemaking.com/design_patterns)| 
-Feb 7 Wed | [Design for change](slides/Lecture-7-Design-for-Change.pdf) | Information hiding: ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623))|
-Feb 9 Fri | [Brainstorming design alternatives](slides/Recitation-4-Generate.pdf) | [Monopoly](https://www.youtube.com/watch?v=AuWvMgYv03g) | 
-Feb 12 Mon | [Design for change (continued)](slides/Lecture-8-Design-for-Change-2.pdf) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | M1 due; [M2](assignments/Project-M2.pdf) out
-Feb 14 Wed | [Design for interoperability](slides/Lecture-9-Interoperability.pdf) | **Required** [GDS](https://www.youtube.com/watch?v=1-m_Jjse-cs&pp=ygUMZ2RzIHdlbmRvdmVy)  **Recommended** [GDS API Example](https://developer.sabre.com/docs/rest_apis/digital_connect/stateless_services/air_exchange_search/v100/reference-documentation#/AirExchangeSearch/AirExchangeSearch)|
-Feb 16 Fri | [Exercises: Changeability & interoperability](slides/Recitation-5-Changeability.pdf) | |
-Feb 19 Mon | [Design for testability](slides/Lecture-10-Testability.pdf) | **Required** [Chaos Experiments at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) |
-Feb 21 Wed | [Design with reuse](slides/Lecture-11-DesignWithReuse.pdf)| |
-Feb 23 Fri | [Midterm preparation](slides/Recitation-6-Exam-Prep.pdf) | |
-Feb 26 Mon | [Arguing for and reviewing designs](slides/Lecture-12-Design-Review.pdf) | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/)| 
-Feb 28 Wed | Midterm | | 
-Mar 1 Fri | Project office hour | | M2 due; [M3](assignments/Project-M3.pdf) out |
-Mar 4 Mon | **Spring break - No classes** | | 
-Mar 6 Wed | **Spring break - No classes** | |
-Mar 8 Fri | **Spring break - No classes** | | 
-Mar 11 Mon | [Cross-team interface design session](slides/Lecture-13-FeedbackAndProject.pptx.pdf) |  **Required** Please carefully read [M3](assignments/Project-M3.pdf) | 
-Mar 13 Wed | [Design for reuse](slides/Lecture-14-DesignForReuse.pdf) | **Recommended** [A, T, AT, 0-Modules](https://icsa-conferences.org/series/WICSA/1999/final/fuchs.pdf) <br>  [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 8, 30, 31, 32 <br> Pipes & Filters: [Pattern-oriented Software Architecture V1](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019577802604436) Chapter 2.2 <br> Research: [Reusability affecting factors and software metrics for reusability: A systematic literature review](https://onlinelibrary.wiley.com/doi/pdf/10.1002/spe.2961?casa_token=5_UkbmA_PFUAAAAA:udiiG3KpCGsMOKaFfFQYGfnVAMQKHGZ4DlUP8InmftHh1hofjm7HSo-XZLGe-nTyoxf44ZFEv9lLVfMO)|  [HW2](assignments/HW2-Design-for-Reuse.pdf) out
-Mar 15 Fri | [Midterm review](slides/Recitation-7-Midterm-Review.pdf) | | 
-Mar 18 Mon | [Design for scalability](slides/Lecture-15-16-Design-for-Scalability.pdf)  | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
-Mar 20 Wed | [Design for scalability (continued)](slides/Lecture-15-16-Design-for-Scalability.pdf) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | HW2 due
-Mar 22 Fri | [Exercises: Scalability](slides/Recitation-8-Scalability.pdf) | | 
-Mar 25 Mon | [Design for robustness](slides/Lecture-17-18-Design-for-Robustness.pdf) | [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | M3 due; [M4](assignments/Project-M4.pdf) out
-Mar 27 Wed | [Design for robustness (continued)](slides/Lecture-17-18-Design-for-Robustness.pdf) | [Patterns for Fault Tolerant Software](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576951304436) Ch. 1, 2 | 
-Mar 29 Fri | [Design Tradeoffs Exercise](slides/Recitation-9-Design-Tradeoffs.pdf)  | | 
-Apr 1 Mon | [Design Processes](slides/Lecture-16-Process.pdf)| **Required** [Agile Software Development with the Scrum Process](https://www.atlassian.com/agile/scrum)  | 
-Apr 3 Wed | [Design for security](slides/Lecture-20-Design-for-Security.pdf)  | [Security Architecture of qmail](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=7858f98f9687be9f091b795c120ade835471c607) [Protection of Information in Computer Systems](https://ieeexplore.ieee.org/abstract/document/1451869) | M4a due
-Apr 5 Fri |  [Project Risk Storming](slides/Recitation-10-Riskstorming.pdf) | [Risk Storming](https://riskstorming.com/) | [HW3](assignments/HW3-Design-for-Scalability.pdf) out
-Apr 8 Mon | [Design for usability](slides/Lecture-21-Design-for-usability.pdf) | [Mental Models](https://www.nngroup.com/articles/mental-models) | 
-Apr 10 Wed |  [Ethical and responsible design](slides/Lecture-22-Responsible-Design.pdf) | [Algorithmic Accountability](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf) | M4b due; [M5](assignments/Project-M5.pdf) out
-Apr 12 Fri | **Spring Carnival - No classes** | | 
-Apr 15 Mon | Project work time | | 
-Apr 17 Wed | [Designing AI-based systems](slides/Lecture-23-Design-for-AISE.pdf) |  | [Project Presentation](assignments/Project-Presentation.pdf) out 
-Apr 19 Fri | Guest lecture | | M5 due 
-Apr 22 Mon | [Course review](slides/Lecture-24-Course_Review.pdf)  | | HW3 due 
-Apr 24 Wed | Project presentations | | 
-May 3 Fri | Final exam (8:30 am - 11:30 am) in Scaife Hall (SH) 238 (Room of Recitation)| |
+Jan 13 Mon | Introduction and motivation | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 3 |  
+Jan 15 Wed |  Problem vs. solution space| [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
+Jan 17 Fri | Exercises: Design activities  | | 
+Jan 20 Mon | **MLK Jr Day - No classes** | | 
+Jan 22 Wed |  Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | HW1 out
+Jan 24 Fri |  Exercises: Modeling | | 
+Jan 27 Mon | Quality attributes & trade-offs |  |
+Jan 29 Wed | Design space exploration | | HW1 due; M1 out
+Jan 31 Fri | Teamwork guidelines | | 
+Feb 3 Mon | Design for change| Information hiding: ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) | 
+Feb 5 Wed | Design for change (continued) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | M1 due; M2 out
+Feb 7 Fri | Exercises: Changeability | || 
+Feb 10 Mon |  Design for testability | [Chaos Experiments at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) | 
+Feb 12 Wed |  Arguing for and reviewing designs | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/)| |
+Feb 14 Fri |  Exercises: Testability | |
+Feb 17 Mon |  Midterm | |
+Feb 19 Wed |   |
+Feb 21 Fri |  Midterm discussion | |
+Feb 24 Mon | | |
+Feb 26 Wed | | | 
+Feb 28 Fri | | | M2 due; M3 out |
+Mar 3 Mon | **Spring break - No classes** | | 
+Mar 5 Wed | **Spring break - No classes** | |
+Mar 7 Fri | **Spring break - No classes** | | 
+Mar 10 Mon | Cross-team interface design session |  | | 
+Mar 12 Wed | | | HW2 out |
+Mar 14 Fri | | | |
+Mar 17 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
+Mar 19 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | HW2 due |
+Mar 21 Fri | Exercises: Scalability | | 
+Mar 24 Mon | Design for robustness| [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | M3 due; M4 out |
+Mar 26 Wed | Design for robustness (continued) | | | 
+Mar 28 Fri | Exercises: Robustness | | 
+Mar 31 Mon | Design Processes | | |
+Apr 2 Wed | Design for security | | M4a due
+Apr 5 Fri | **Spring Carnival - No classes** | |
+Apr 7 Mon | Design for usability | [Mental Models](https://www.nngroup.com/articles/mental-models) | 
+Apr 9 Wed | Ethical and responsible design | [Algorithmic Accountability](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf) | M4b due; M5 out
+Apr 11 Fri | Exercises: Security | HW3 out
+Apr 14 Mon | Software design & AI | | 
+Apr 16 Wed | Software design & AI (continued) |  | Project Presentation out 
+Apr 18 Fri | Project work time | | M5 due 
+Apr 21 Mon | Course review | | HW3 due 
+Apr 23 Wed | Project presentations | | 
 
 # Learning Objectives
 
