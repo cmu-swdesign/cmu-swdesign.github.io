@@ -46,21 +46,21 @@ Jan 29 Wed | Design space exploration | | HW1 due; M1 out
 Jan 31 Fri | Teamwork guidelines | | 
 Feb 3 Mon | Design for change| Information hiding: ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) | 
 Feb 5 Wed | Design for change (continued) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | M1 due; M2 out
-Feb 7 Fri | Exercises: Changeability | || 
+Feb 7 Fri | Exercises: Changeability | | | 
 Feb 10 Mon |  Design for testability | [Chaos Experiments at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) | 
-Feb 12 Wed |  Arguing for and reviewing designs | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/)| |
-Feb 14 Fri |  Exercises: Testability | |
-Feb 17 Mon |  Midterm | |
-Feb 19 Wed |   |
-Feb 21 Fri |  Midterm discussion | |
-Feb 24 Mon | | |
-Feb 26 Wed | | | 
+Feb 12 Wed | Design for testability (continued) | | |
+Feb 14 Fri |  Exercises: Testability | | |
+Feb 17 Mon |  Midterm | | |
+Feb 19 Wed |  Design for interoperability | | |
+Feb 21 Fri |  Midterm discussion | | |
+Feb 24 Mon | Design with reuse | | |
+Feb 26 Wed | | | |
 Feb 28 Fri | | | M2 due; M3 out |
 Mar 3 Mon | **Spring break - No classes** | | 
 Mar 5 Wed | **Spring break - No classes** | |
 Mar 7 Fri | **Spring break - No classes** | | 
-Mar 10 Mon | Cross-team interface design session |  | | 
-Mar 12 Wed | | | HW2 out |
+Mar 10 Mon | Arguing for and reviewing designs | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
+Mar 12 Wed | Cross-team interface design session | | HW2 out |
 Mar 14 Fri | | | |
 Mar 17 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
 Mar 19 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | HW2 due |
