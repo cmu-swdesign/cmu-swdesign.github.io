@@ -68,7 +68,7 @@ Mar 21 Fri | Exercises: Scalability | |
 Mar 24 Mon | Design for robustness| [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | M3 due; M4 out |
 Mar 26 Wed | Design for robustness (continued) | | | 
 Mar 28 Fri | Exercises: Robustness | | 
-Mar 31 Mon | Design Processes | | |
+Mar 31 Mon | Design processes | | |
 Apr 2 Wed | Design for security | | M4a due
 Apr 5 Fri | **Spring Carnival - No classes** | |
 Apr 7 Mon | Design for usability | [Mental Models](https://www.nngroup.com/articles/mental-models) | 
