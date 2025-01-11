@@ -54,28 +54,28 @@ Feb 17 Mon |  Midterm | | |
 Feb 19 Wed |  Design for interoperability | | |
 Feb 21 Fri |  Midterm discussion | | |
 Feb 24 Mon | Design with reuse | | |
-Feb 26 Wed | | | |
-Feb 28 Fri | | | M2 due; M3 out |
+Feb 26 Wed | [TBD] | | |
+Feb 28 Fri | [TBD] | | M2 due; M3 out |
 Mar 3 Mon | **Spring break - No classes** | | 
 Mar 5 Wed | **Spring break - No classes** | |
 Mar 7 Fri | **Spring break - No classes** | | 
 Mar 10 Mon | Arguing for and reviewing designs | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
 Mar 12 Wed | Cross-team interface design session | | HW2 out |
-Mar 14 Fri | | | |
+Mar 14 Fri | [TBD] | | |
 Mar 17 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
 Mar 19 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | HW2 due |
 Mar 21 Fri | Exercises: Scalability | | 
 Mar 24 Mon | Design for robustness| [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | M3 due; M4 out |
 Mar 26 Wed | Design for robustness (continued) | | | 
 Mar 28 Fri | Exercises: Robustness | | 
-Mar 31 Mon | Design processes | | |
-Apr 2 Wed | Design for security | | M4a due
+Mar 31 Mon | Design processes  | | |
+Apr 2 Wed | Design for security  | | M4a due |
 Apr 5 Fri | **Spring Carnival - No classes** | |
-Apr 7 Mon | Design for usability | [Mental Models](https://www.nngroup.com/articles/mental-models) | 
-Apr 9 Wed | Ethical and responsible design | [Algorithmic Accountability](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf) | M4b due; M5 out
+Apr 7 Mon | Design for security (continued) |  | 
+Apr 9 Wed | Design for usability | [Mental Models](https://www.nngroup.com/articles/mental-models) | M4b due; M5 out |
 Apr 11 Fri | Exercises: Security | HW3 out
-Apr 14 Mon | Software design & AI | | 
-Apr 16 Wed | Software design & AI (continued) |  | Project Presentation out 
+Apr 14 Mon | Design & AI | | 
+Apr 16 Wed | Design & AI (continued) |  | Project Presentation out 
 Apr 18 Fri | Project work time | | M5 due 
 Apr 21 Mon | Course review | | HW3 due 
 Apr 23 Wed | Project presentations | | 
