@@ -24,8 +24,8 @@ This course teaches students how to design complex, large-scale software systems
 
 ### Course Staff
 
-- Instructor: [Eunsuk Kang](https://eskang.github.io/) (eunsukk)
-- TA: Shivam Bansal (shivamb)
+- Instructor: [Eunsuk Kang](https://eskang.github.io/) (eunsukk@andrew)
+- TA: Shivam Bansal (shivamb@andrew)
 
 ### Readings
 
@@ -94,7 +94,7 @@ After taking this course, students will be able to:
 # Course Philosophy 
 
 ### Hands-on Experience in a Collaborative Project
-Interesting design challenges usually arise in complex systems and can only be fully understood via first-hand experience. Therefore, teams in this course will work together on a single project to collaboratively build a complex system that involves interesting design decisions and discussions of interfaces between different teams. We will provide support structures to help you navigate potential cross-team issues. 
+Interesting design challenges usually arise in complex systems and can only be fully understood via first-hand experience. Therefore, teams in this course will work together on a single project to collaboratively build a complex system that involves design decisions and discussions of interfaces between different teams. We will provide support structures to help you navigate potential cross-team issues. 
 
 ### Growth Mindset & Learning from Failures 
 When working on a complex software project, design issues and challenges will inevitably arise. In this course, we embrace a growth mindset and encourage students to see challenges in the project as an opportunity to learn based on the motto: “If you fail and you know why, you've succeeded. If you succeed and you don’t know why, you've failed”. We will focus on continuous, semester-long improvements, rather than achieving perfection in the first attempt.    
@@ -108,12 +108,12 @@ Educational research shows that active student participation in lectures is cruc
 - **20% Homework**: 3-4 individual homeworks mostly focusing on software design problems from case studies discussed in class.
 - **50% Project**: Multiple milestones involving development of a fully functional system, along with design documents and reflections, critiques, and a final project presentation. 
 - **20% Exams** : In person, open-book midterm & final. 
-- **10% Participation**, Active participation in class discussions, completion of end-of-lecture exit tickets. Each submission that shows a reasonable effort gets 100%, even if there are misunderstandings. Everyone gets 3 free passes.
+- **10% Participation**: Active participation in class discussions and recitations, and completion of end-of-lecture exit tickets. 
 
 # Course and Grading Policies
 
 ### Late Work Policy and Resubmissions
-We understand that studying during a pandemic is challenging and that some students have conflicting deadlines or are distracted by interviewing for jobs. We therefore build flexibility and a safety net directly into the rubric. If you need additional accommodations, please contact us.
+We understand that it is sometimes difficult to avoid conflicting deadlines or other obligations such as job interviews. We therefore build flexibility and a safety net directly into the rubric. If you need additional accommodations, please contact us.
 
 Every student receives 7 tokens that they can spend throughout the semester in the following ways:
 - For each token a student can submit a homework assignment 1 day late.
@@ -122,13 +122,13 @@ Every student receives 7 tokens that they can spend throughout the semester in t
 - Remaining tokens at the end of the semester are counted as one participation day each.
 
 If a student runs out of tokens, individual assignments receive a penalty of 15% per day.
-Exceptions to this policy will be made at the discretion of the instructors in important circumstances, almost always involving a family or medical emergency — you can ask your academic advisor or the Dean of Student Affairs requesting the exception on your behalf. For accommodations related to remote class attendance, we try to be flexible: please contact the instructors. Please communicate also with your team about potential timing issues.
+Exceptions to this policy will be made at the discretion of the instructors in important circumstances, such as involving a family or medical emergency. You may also ask your academic advisor or the Dean of Student Affairs requesting the exception on your behalf. Please communicate also with your team about potential timing issues.
 
 ### Participation Policy
-Class participation will be graded by in-class engagement, including asking relevant questions based on a critical review of required readings and lectures, preparation for any in-class exercises, and responses on the class discussion board. 
+Class participation will be graded by lecture and recitation engagement, including asking relevant questions, contributing to class discussions, and participating in in-class exercises. Completion of exit tickets will also count towards the participation grade.
 
 ### Time Management
-This is a 12-unit course, and it is our intention to manage it so that you spend close to 12 hours a week on the course on average. In general, 4 hours/week will be spent in class, 1-2 hours on readings, and 6-7 hours on assignments and the project. Please give the course staff feedback if the time the course is taking for you differs significantly from our intention. We are happy to provide tips on time management and will adjust the course load if we notice that many students are raising issues.
+This is a 12-unit course, and it is our intention to manage it so that you spend close to 12 hours a week on the course on average. In general, 4 hours/week will be spent in class, 1-2 hours on readings, and 6-7 hours on assignments and the project. Please give the course staff feedback if the amount of time you spend on the course differs significantly from the expectations. We are happy to provide tips on time management and will adjust the course load if we notice that many students are raising issues.
 
 ### Academic Integrity
 Honesty and transparency are important to good scholarship. Plagiarism and cheating, however, are serious academic offenses with serious consequences. If you are discovered engaging in either behavior in this course, you will earn a failing grade on the assignment in question, and further disciplinary action may be taken. 
@@ -136,7 +136,7 @@ For a clear description of what counts as plagiarism, cheating, and/or the use o
 
 In this course you are allowed to **discuss potential solution ideas** to individual homework with other students in order to practice brainstorming and communication between software engineers. However, your solution still has to be your own and should not be identical to the solution of your discussion partners. You may not show your final solution to other students before you both have submitted your solution. This applies to source code as well as write-ups. 
 
-The use of **generative AI** has to be explicitly marked as such, including your prompts and a screenshot of the result. While we encourage you to critically engage with generative AI and use it for idea generation, the submitted solution has to be your own and differ significantly from responses of generative AI. Generative AI is not allowed on exams or exit tickets. 
+The use of **generative AI** has to be explicitly marked as such. While we encourage you to critically engage with generative AI and use it for idea generation, the submitted solution has to be your own. Generative AI is not allowed on exams or exit tickets. 
 
 If you have any questions regarding plagiarism or cheating, please ask us as soon as possible to avoid any misunderstandings. For more information about Carnegie Mellon’s standards with respect to academic integrity, you can also check out the Office of Community Standards & Integrity website.
 
