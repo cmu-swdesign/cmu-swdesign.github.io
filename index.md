@@ -74,8 +74,8 @@ Apr 5 Fri | **Spring Carnival - No classes** | |
 Apr 7 Mon | Design for security (continued) |  | 
 Apr 9 Wed | Design for usability | [Mental Models](https://www.nngroup.com/articles/mental-models) | M4b due; M5 out |
 Apr 11 Fri | Exercises: Security | HW3 out
-Apr 14 Mon | Design & AI | | 
-Apr 16 Wed | Design & AI (continued) |  | Project Presentation out 
+Apr 14 Mon | Software design & AI | | 
+Apr 16 Wed | Software design & AI (continued) |  | Project Presentation out 
 Apr 18 Fri | Project work time | | M5 due 
 Apr 21 Mon | Course review | | HW3 due 
 Apr 23 Wed | Project presentations | | 
