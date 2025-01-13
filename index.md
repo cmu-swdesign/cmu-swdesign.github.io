@@ -136,7 +136,7 @@ For a clear description of what counts as plagiarism, cheating, and/or the use o
 
 In this course you are allowed to **discuss potential solution ideas** to individual homework with other students in order to practice brainstorming and communication between software engineers. However, your solution still has to be your own and should not be identical to the solution of your discussion partners. You may not show your final solution to other students before you both have submitted your solution. This applies to source code as well as write-ups. 
 
-The use of **generative AI** has to be explicitly marked as such. While we encourage you to critically engage with generative AI and use it for idea generation, the submitted solution has to be your own. Generative AI is not allowed on exams or exit tickets. 
+The use of **generative AI** has to be explicitly documented as such. While we encourage you to critically engage with generative AI and experiment with it for different types of design tasks, it is your responsibility to check the quality of the output from an LLM. Generative AI is not allowed on exams or exit tickets. 
 
 If you have any questions regarding plagiarism or cheating, please ask us as soon as possible to avoid any misunderstandings. For more information about Carnegie Mellon’s standards with respect to academic integrity, you can also check out the Office of Community Standards & Integrity website.
 
