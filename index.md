@@ -37,7 +37,7 @@ Date | Topic | Reading | Assignment
 -| - | - | -
 Jan 13 Mon | Introduction and motivation | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 3 |  
 Jan 15 Wed |  Problem vs. solution space| [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
-Jan 17 Fri | Exercises: Understanding the problem space  | | 
+Jan 17 Fri | Exercises: Problem space  | | 
 Jan 20 Mon | **MLK Jr Day - No classes** | | 
 Jan 22 Wed |  Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | HW1 out
 Jan 24 Fri |  Exercises: Modeling | | 
