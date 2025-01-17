@@ -21,6 +21,7 @@ This course teaches students how to design complex, large-scale software systems
 ### Time & Location
 - Lectures: Mon & Wed, 9:30-10:50 AM SH 238
 - Recitation: Friday, 10:00-10:50 AM HH B103
+- Office Hours: Thursday, 05:00-06:00 PM NSH 3002
 
 ### Course Staff
 
