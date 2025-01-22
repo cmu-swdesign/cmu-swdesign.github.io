@@ -60,7 +60,7 @@ Feb 28 Fri | [TBD] | | M2 due; M3 out |
 Mar 3 Mon | **Spring break - No classes** | | 
 Mar 5 Wed | **Spring break - No classes** | |
 Mar 7 Fri | **Spring break - No classes** | | 
-Mar 10 Mon | Arguing for and reviewing designs | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
+Mar 10 Mon | Design reviews | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
 Mar 12 Wed | Cross-team interface design session | | HW2 out |
 Mar 14 Fri | [TBD] | | |
 Mar 17 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
