@@ -47,10 +47,10 @@ Jan 29 Wed | Generating design ideas | | HW1 due; M1 out
 Jan 31 Fri | Activity: QAs & trade-offs | | 
 Feb 3 Mon | Design for change| Information hiding: ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) | 
 Feb 5 Wed | Design for change (continued) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | M1 due; M2 out
-Feb 7 Fri | Exercises: Changeability | | | 
+Feb 7 Fri | Activity: Changeability | | | 
 Feb 10 Mon |  Design for testability | [Chaos Experiments at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) | 
 Feb 12 Wed | Design for testability (continued) | | |
-Feb 14 Fri |  Exercises: Testability | | |
+Feb 14 Fri |  Activity: Testability | | |
 Feb 17 Mon |  Midterm | | |
 Feb 19 Wed |  Design for interoperability | | |
 Feb 21 Fri |  Midterm discussion | | |
@@ -65,16 +65,16 @@ Mar 12 Wed | Cross-team interface design session | | HW2 out |
 Mar 14 Fri | [TBD] | | |
 Mar 17 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
 Mar 19 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | HW2 due |
-Mar 21 Fri | Exercises: Scalability | | 
+Mar 21 Fri | Activity: Scalability | | 
 Mar 24 Mon | Design for robustness| [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | M3 due; M4 out |
 Mar 26 Wed | Design for robustness (continued) | | | 
-Mar 28 Fri | Exercises: Robustness | | 
+Mar 28 Fri | Activity: Robustness | | 
 Mar 31 Mon | Design processes  | | |
 Apr 2 Wed | Design for security  | | M4a due |
 Apr 5 Fri | **Spring Carnival - No classes** | |
 Apr 7 Mon | Design for security (continued) |  | 
 Apr 9 Wed | Design for usability | [Mental Models](https://www.nngroup.com/articles/mental-models) | M4b due; M5 out |
-Apr 11 Fri | Exercises: Security | HW3 out
+Apr 11 Fri | Activity: Security | HW3 out
 Apr 14 Mon | Software design & AI | | 
 Apr 16 Wed | Software design & AI (continued) |  | Project Presentation out 
 Apr 18 Fri | Project work time | | M5 due 
