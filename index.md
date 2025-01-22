@@ -40,7 +40,7 @@ Jan 13 Mon | [Introduction and motivation](slides/Lecture-1-Introduction.pdf) | 
 Jan 15 Wed | [Problem vs. solution space](slides/Lecture-2-Problem-Space.pdf) | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
 Jan 17 Fri | [Activity: Problem space](slides/Recitation-1-Problem-Space.pdf)  | |  
 Jan 20 Mon | **MLK Jr Day - No classes** | | 
-Jan 22 Wed |  Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | [HW1](assignments/HW1-modeling.pdf) out
+Jan 22 Wed |  Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | [HW1](assignments/HW1-Domain-and-Design-Modeling.pdf) out
 Jan 24 Fri |  Teamwork guidelines  | | 
 Jan 27 Mon | Quality attributes & trade-offs |  |
 Jan 29 Wed | Generating design ideas | | HW1 due; M1 out
