@@ -40,11 +40,11 @@ Jan 13 Mon | [Introduction and motivation](slides/Lecture-1-Introduction.pdf) | 
 Jan 15 Wed | [Problem vs. solution space](slides/Lecture-2-Problem-Space.pdf) | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
 Jan 17 Fri | [Activity: Problem space](slides/Recitation-1-Problem-Space.pdf)  | |  
 Jan 20 Mon | **MLK Jr Day - No classes** | | 
-Jan 22 Wed |  Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | HW1 out
-Jan 24 Fri |  Exercises: Modeling | | 
+Jan 22 Wed |  Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | [HW1](assignments/HW1-modeling.pdf) out
+Jan 24 Fri |  Teamwork guidelines  | | 
 Jan 27 Mon | Quality attributes & trade-offs |  |
-Jan 29 Wed | Design space exploration | | HW1 due; M1 out
-Jan 31 Fri | Teamwork guidelines | | 
+Jan 29 Wed | Generating design ideas | | HW1 due; M1 out
+Jan 31 Fri | Activity: QAs & trade-offs | | 
 Feb 3 Mon | Design for change| Information hiding: ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) | 
 Feb 5 Wed | Design for change (continued) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | M1 due; M2 out
 Feb 7 Fri | Exercises: Changeability | | | 
