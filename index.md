@@ -41,7 +41,7 @@ Jan 15 Wed | [Problem vs. solution space](slides/Lecture-2-Problem-Space.pdf) | 
 Jan 17 Fri | [Activity: Problem space](slides/Recitation-1-Problem-Space.pdf)  | |  
 Jan 20 Mon | **MLK Jr Day - No classes** | | 
 Jan 22 Wed |  [Design abstractions](slides/Lecture-3-Design-Abstractions.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | [HW1](assignments/HW1-Domain-and-Design-Modeling.pdf) out
-Jan 24 Fri |  Teamwork guidelines  | | 
+Jan 24 Fri |  [Teamwork guidelines](slides/Recitation-2-Teamwork.pdf)  | | 
 Jan 27 Mon | Quality attributes & trade-offs |  |
 Jan 29 Wed | Generating design ideas | | HW1 due; M1 out
 Jan 31 Fri | Activity: QAs & trade-offs | | 
