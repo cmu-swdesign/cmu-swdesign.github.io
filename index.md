@@ -43,10 +43,10 @@ Jan 20 Mon | **MLK Jr Day - No classes** | |
 Jan 22 Wed |  [Design abstractions](slides/Lecture-3-Design-Abstractions.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | [HW1](assignments/HW1-Domain-and-Design-Modeling.pdf) out
 Jan 24 Fri |  [Teamwork guidelines](slides/Recitation-2-Teamwork.pdf)  | | 
 Jan 27 Mon | Quality attributes & trade-offs |  |
-Jan 29 Wed | Generating design ideas | | HW1 due; M1 out
+Jan 29 Wed |  Design for change | Information hiding: ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) | HW1 due; M1 out
 Jan 31 Fri | Activity: QAs & trade-offs | | 
-Feb 3 Mon | Design for change| Information hiding: ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) | 
-Feb 5 Wed | Design for change (continued) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | M1 due; M2 out
+Feb 3 Mon | Design for change (continued)| [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | M1 due; M2 out | 
+Feb 5 Wed |  [TBD] | |
 Feb 7 Fri | Activity: Changeability | | | 
 Feb 10 Mon |  Design for testability | [Chaos Experiments at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) | 
 Feb 12 Wed | Design for testability (continued) | | |
