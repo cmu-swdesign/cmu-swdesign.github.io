@@ -48,7 +48,7 @@ Jan 31 Fri | [Activity: QAs & trade-offs](slides/Recitation-3-QA-tradeoffs.pdf) 
 Feb 3 Mon | [Design for change (continued)](slides/Lecture-6-Design-for-Change-2.pdf) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 |  | 
 Feb 5 Wed |  [Designing interface specifications](slides/Lecture-7-Interface-Specifications.pdf) | [Program Development in Java](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576667704436) Ch. 9 | |
 Feb 7 Fri | [Activity: Changeability](slides/Recitation-4-Design-for-Change.pdf) | | | 
-Feb 10 Mon |  Design for testability | [Chaos Experiments at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) | M1 due; M2 out |
+Feb 10 Mon |  Design for testability | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 6, 7 | M1 due; M2 out |
 Feb 12 Wed | Design for testability (continued) | | |
 Feb 14 Fri |  Activity: Testability | | |
 Feb 17 Mon |  Midterm | | |
