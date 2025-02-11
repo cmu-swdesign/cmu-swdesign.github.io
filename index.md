@@ -71,7 +71,7 @@ Mar 26 Wed | Design for robustness (continued) | | |
 Mar 28 Fri | Activity: Robustness | | 
 Mar 31 Mon | Design processes  | | |
 Apr 2 Wed | Design for security  | | M4a due |
-Apr 5 Fri | **Spring Carnival - No classes** | |
+Apr 4 Fri | **Spring Carnival - No classes** | |
 Apr 7 Mon | Design for security (continued) |  | 
 Apr 9 Wed | Design for usability | [Mental Models](https://www.nngroup.com/articles/mental-models) | M4b due; M5 out |
 Apr 11 Fri | Activity: Security | HW3 out
