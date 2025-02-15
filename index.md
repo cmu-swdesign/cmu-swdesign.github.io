@@ -50,7 +50,7 @@ Feb 5 Wed |  [Designing interface specifications](slides/Lecture-7-Interface-Spe
 Feb 7 Fri | [Activity: Changeability](slides/Recitation-4-Design-for-Change.pdf) |  | | 
 Feb 10 Mon |  [Design for testability](slides/Lecture-8-9-Design-for-Testability.pdf) | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 6, 7 | M1 due; [M2](assignments/Project-M2.pdf) out |
 Feb 12 Wed | [Design for testability (continued)](slides/Lecture-8-9-Design-for-Testability.pdf) | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 4, 8 | |
-Feb 14 Fri |  [Activity: Testability](slides/Recitation-5-Design-for-Testability.pdf) | [handout](assignments/Rec5-handout.pdf) | |
+Feb 14 Fri |  [Activity: Testability](slides/Recitation-5-Design-for-Testability.pdf) | [handout](assignments/Rec5-handout.pdf) [solution](assignments/Rec5-sample-solution.pdf)| |
 Feb 17 Mon |  Midterm | | |
 Feb 19 Wed |  Design for interoperability | | |
 Feb 21 Fri |  Midterm discussion | | |
