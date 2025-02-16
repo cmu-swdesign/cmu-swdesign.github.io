@@ -44,7 +44,7 @@ Jan 22 Wed |  [Design abstractions](slides/Lecture-3-Design-Abstractions.pdf) | 
 Jan 24 Fri |  [Teamwork guidelines](slides/Recitation-2-Teamwork.pdf)  | | 
 Jan 27 Mon | [Quality attributes & trade-offs](slides/Lecture-4-Quality-Attributes.pdf) | [Software Architecture in Practice](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019829138004436) Ch. 3; [Fowler article on quality](https://martinfowler.com/articles/is-quality-worth-cost.html) |
 Jan 29 Wed |  [Design for change](slides/Lecture-5-Design-for-Change.pdf) | Information hiding: ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) | HW1 due; [M1](assignments/Project-M1.pdf) out
-Jan 31 Fri | [Activity: QAs & trade-offs](slides/Recitation-3-QA-tradeoffs.pdf) | | 
+Jan 31 Fri | [Activity: QAs & trade-offs](slides/Recitation-3-QA-tradeoffs.pdf) | [Handout](assignments/Rec3-handout.pdf) ([solution](assignments/Rec3-sample-solution.pdf)) | 
 Feb 3 Mon | [Design for change (continued)](slides/Lecture-6-Design-for-Change-2.pdf) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 |  | 
 Feb 5 Wed |  [Designing interface specifications](slides/Lecture-7-Interface-Specifications.pdf) | [Program Development in Java](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576667704436) Ch. 9 | |
 Feb 7 Fri | [Activity: Changeability](slides/Recitation-4-Design-for-Change.pdf) |  [Handout](assignments/Rec4-handout.pdf) ([solution](assignments/Rec4-sample-solution.pdf)) | | 
