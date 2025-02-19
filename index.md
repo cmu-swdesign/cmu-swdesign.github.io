@@ -55,7 +55,7 @@ Feb 17 Mon |  Midterm | | |
 Feb 19 Wed |  Design for interoperability | | |
 Feb 21 Fri |  Midterm discussion | | |
 Feb 24 Mon | Design with reuse | | |
-Feb 26 Wed | [TBD] | | |
+Feb 26 Wed | Project work time (no lecture) | | |
 Feb 28 Fri | [TBD] | | M2 due; M3 out |
 Mar 3 Mon | **Spring break - No classes** | | 
 Mar 5 Wed | **Spring break - No classes** | |
@@ -77,7 +77,7 @@ Apr 9 Wed | Design for usability | [Mental Models](https://www.nngroup.com/artic
 Apr 11 Fri | Activity: Security | HW3 out
 Apr 14 Mon | Software design & AI | | 
 Apr 16 Wed | Software design & AI (continued) |  | Project Presentation out 
-Apr 18 Fri | Project work time | | M5 due 
+Apr 18 Fri | Project work time (no recitation) | | M5 due 
 Apr 21 Mon | Course review | | HW3 due 
 Apr 23 Wed | Project presentations | | 
 
