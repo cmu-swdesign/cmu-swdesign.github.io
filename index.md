@@ -52,8 +52,8 @@ Feb 10 Mon |  [Design for testability](slides/Lecture-8-9-Design-for-Testability
 Feb 12 Wed | [Design for testability (continued)](slides/Lecture-8-9-Design-for-Testability.pdf) | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 4, 8 | |
 Feb 14 Fri |  [Activity: Testability](slides/Recitation-5-Design-for-Testability.pdf) | [Handout](assignments/Rec5-handout.pdf) ([solution](assignments/Rec5-sample-solution.pdf)) | |
 Feb 17 Mon |  Midterm | | |
-Feb 19 Wed |  Design for interoperability | [FAIR Principles](https://www.go-fair.org/fair-principles/) | |
-Feb 21 Fri |  Midterm discussion | | |
+Feb 19 Wed |  ~Design for interoperability~ (moved to Feb 21) | [FAIR Principles](https://www.go-fair.org/fair-principles/) | |
+Feb 21 Fri |  Design for interoperability | | |
 Feb 24 Mon | Design with reuse | | |
 Feb 26 Wed | Project work time (no lecture) | | |
 Feb 28 Fri | [TBD] | | M2 due; M3 out |
