@@ -56,7 +56,7 @@ Feb 19 Wed |  <s>Design for interoperability</s> (moved to Feb 21) | | |
 Feb 21 Fri |  Design for interoperability | [FAIR Principles](https://www.go-fair.org/fair-principles/)  | |
 Feb 24 Mon | Design with reuse | | |
 Feb 26 Wed | Project work time (no lecture) | | |
-Feb 28 Fri | [TBD] | | M2 due; M3 out |
+Feb 28 Fri | Midterm discussion | | M2 due; M3 out |
 Mar 3 Mon | **Spring break - No classes** | | 
 Mar 5 Wed | **Spring break - No classes** | |
 Mar 7 Fri | **Spring break - No classes** | | 
