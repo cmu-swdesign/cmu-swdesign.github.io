@@ -53,7 +53,7 @@ Feb 12 Wed | [Design for testability (continued)](slides/Lecture-8-9-Design-for-
 Feb 14 Fri |  [Activity: Testability](slides/Recitation-5-Design-for-Testability.pdf) | [Handout](assignments/Rec5-handout.pdf) ([solution](assignments/Rec5-sample-solution.pdf)) | |
 Feb 17 Mon |  Midterm | | |
 Feb 19 Wed |  <s>Design for interoperability</s> (moved to Feb 21) | | |
-Feb 21 Fri |  Design for interoperability | [FAIR Principles](https://www.go-fair.org/fair-principles/)  | |
+Feb 21 Fri |  [Design for interoperability](slides/Lecture-10-Design-for-Interoperability.pdf) | [FAIR Principles](https://www.go-fair.org/fair-principles/)  | |
 Feb 24 Mon | Design with reuse | | |
 Feb 26 Wed | Project work time (no lecture) | | |
 Feb 28 Fri | Midterm discussion | | M2 due; M3 out |
