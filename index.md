@@ -54,7 +54,7 @@ Feb 14 Fri |  [Activity: Testability](slides/Recitation-5-Design-for-Testability
 Feb 17 Mon |  Midterm | | |
 Feb 19 Wed |  <s>Design for interoperability</s> (moved to Feb 21) | | |
 Feb 21 Fri |  [Design for interoperability](slides/Lecture-10-Design-for-Interoperability.pdf) | [FAIR Principles](https://www.go-fair.org/fair-principles/)  | |
-Feb 24 Mon | Design with reuse | | |
+Feb 24 Mon | [Design with reuse](slides/Lecture-11-Design-with-Reuse.pdf) | | |
 Feb 26 Wed | Project work time (no lecture) | | |
 Feb 28 Fri | Midterm discussion | | M2 due; M3 out |
 Mar 3 Mon | **Spring break - No classes** | | 
