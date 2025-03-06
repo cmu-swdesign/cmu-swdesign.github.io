@@ -56,16 +56,16 @@ Feb 19 Wed |  <s>Design for interoperability</s> (moved to Feb 21) | | |
 Feb 21 Fri |  [Design for interoperability](slides/Lecture-10-Design-for-Interoperability.pdf) | [FAIR Principles](https://www.go-fair.org/fair-principles/)  | |
 Feb 24 Mon | [Design with reuse](slides/Lecture-11-Design-with-Reuse.pdf) | | |
 Feb 26 Wed | Project work time (no lecture) | | |
-Feb 28 Fri | Midterm discussion | | M2 due; M3 out |
+Feb 28 Fri | Midterm discussion | | M2 due |
 Mar 3 Mon | **Spring break - No classes** | | 
-Mar 5 Wed | **Spring break - No classes** | |
+Mar 5 Wed | **Spring break - No classes** | [M3](assignments/Project-M2.pdf) out |
 Mar 7 Fri | **Spring break - No classes** | | 
 Mar 10 Mon | Design reviews | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
-Mar 12 Wed | Cross-team interface design session | | HW2 out |
+Mar 12 Wed | Cross-team interface design session | | |
 Mar 14 Fri | [TBD] | | |
 Mar 17 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
-Mar 19 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | HW2 due |
-Mar 21 Fri | Activity: Scalability | | 
+Mar 19 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | |
+Mar 21 Fri | Activity: Scalability | M3 due | 
 Mar 24 Mon | Design for robustness| [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | M3 due; M4 out |
 Mar 26 Wed | Design for robustness (continued) | | | 
 Mar 28 Fri | Activity: Robustness | | 
