@@ -58,7 +58,7 @@ Feb 24 Mon | [Design with reuse](slides/Lecture-11-Design-with-Reuse.pdf) | | |
 Feb 26 Wed | Project work time (no lecture) | | |
 Feb 28 Fri | Midterm discussion | | M2 due |
 Mar 3 Mon | **Spring break - No classes** | | 
-Mar 5 Wed | **Spring break - No classes** | [M3](assignments/Project-M3.pdf) out |
+Mar 5 Wed | **Spring break - No classes** | |  [M3](assignments/Project-M3.pdf) out
 Mar 7 Fri | **Spring break - No classes** | | 
 Mar 10 Mon | Design reviews | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
 Mar 12 Wed | Cross-team interface design session | | |
