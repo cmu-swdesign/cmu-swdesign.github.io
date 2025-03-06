@@ -65,8 +65,8 @@ Mar 12 Wed | Cross-team interface design session | | |
 Mar 14 Fri | [TBD] | | |
 Mar 17 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
 Mar 19 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | |
-Mar 21 Fri | Activity: Scalability | M3 due | 
-Mar 24 Mon | Design for robustness| [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | M3 due; M4 out |
+Mar 21 Fri | Activity: Scalability |  |  M3 due; M4 out
+Mar 24 Mon | Design for robustness| [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | |
 Mar 26 Wed | Design for robustness (continued) | | | 
 Mar 28 Fri | Activity: Robustness | | 
 Mar 31 Mon | Design processes  | | |
