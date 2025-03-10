@@ -60,9 +60,9 @@ Feb 28 Fri | Midterm discussion | | M2 due |
 Mar 3 Mon | **Spring break - No classes** | | 
 Mar 5 Wed | **Spring break - No classes** | |  [M3](assignments/Project-M3.pdf) out
 Mar 7 Fri | **Spring break - No classes** | | 
-Mar 10 Mon | Design reviews | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
+Mar 10 Mon | [Design reviews](slides/Lecture-12-Design-Review.pdf) | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
 Mar 12 Wed | Cross-team interface design session | | |
-Mar 14 Fri | [TBD] | | |
+Mar 14 Fri | Activity: Design Review | | |
 Mar 17 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
 Mar 19 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | |
 Mar 21 Fri | Activity: Scalability |  |  M3 due; M4 out
