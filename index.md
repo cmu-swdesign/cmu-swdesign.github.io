@@ -63,7 +63,7 @@ Mar 7 Fri | **Spring break - No classes** | |
 Mar 10 Mon | [Design reviews](slides/Lecture-12-Design-Review.pdf) | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
 Mar 12 Wed | [Cross-team interface design session](slides/Lecture-13-Interface-Design-Session.pdf) | [Design It! From Programmer to Software Architect](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578124804436) Ch. 9 | |
 Mar 14 Fri | [Activity: Service Integration](slides/Recitation-6-Service-Integration.pdf) | [Pact](https://docs.pact.io/) | |
-Mar 17 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
+Mar 17 Mon | [Design for scalability](slides/Lecture-14-Design-for-Scalability.pdf) | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
 Mar 19 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | |
 Mar 21 Fri | Activity: Scalability |  |  M3 due; M4 out
 Mar 24 Mon | Design for robustness| [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | |
@@ -74,11 +74,11 @@ Apr 2 Wed | Design for security  | | M4a due |
 Apr 4 Fri | **Spring Carnival - No classes** | |
 Apr 7 Mon | Design for security (continued) |  | 
 Apr 9 Wed | Design for usability | [Mental Models](https://www.nngroup.com/articles/mental-models) | M4b due; M5 out |
-Apr 11 Fri | Activity: Security | | HW3 out |
+Apr 11 Fri | Activity: Security | | HW2 out |
 Apr 14 Mon | Software design & AI | |  |
 Apr 16 Wed | Software design & AI (continued) |  | Project Presentation out 
 Apr 18 Fri | Project work time (no recitation) | | M5 due 
-Apr 21 Mon | Course review | | HW3 due 
+Apr 21 Mon | Course review | | HW2 due 
 Apr 23 Wed | Project presentations | | 
 
 # Learning Objectives
