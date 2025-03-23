@@ -67,7 +67,7 @@ Mar 17 Mon | [Design for scalability](slides/Lecture-14-15-Design-for-Scalabilit
 Mar 19 Wed | [Design for scalability (continued)](slides/Lecture-14-15-Design-for-Scalability.pdf)  | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | |
 Mar 21 Fri | [Activity: Scalability](slides/Recitation-7-Scalability.pdf) |  |  M3 due; [M4](assignments/Project-M4.pdf) out
 Mar 24 Mon | Design for robustness| [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | |
-Mar 26 Wed | Design for robustness (continued) | [Chaos testing at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892)] | | 
+Mar 26 Wed | Design for robustness (continued) | [Chaos testing at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) | | 
 Mar 28 Fri | Activity: Robustness | | 
 Mar 31 Mon | Design processes  | | |
 Apr 2 Wed | Design for security  | | M4a due |
