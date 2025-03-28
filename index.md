@@ -69,11 +69,11 @@ Mar 21 Fri | [Activity: Scalability](slides/Recitation-7-Scalability.pdf) |  |  
 Mar 24 Mon | [Design for robustness](slides/Lecture-16-17-Design-for-Robustness.pdf)| [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | |
 Mar 26 Wed | [Design for robustness (continued)](slides/Lecture-16-17-Design-for-Robustness.pdf) | [Chaos testing at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) | | 
 Mar 28 Fri | Activity: Robustness | | 
-Mar 31 Mon | Design processes  | | |
-Apr 2 Wed | Design for security  | | M4a due |
+Mar 31 Mon | Choas engineering; Design for security  | | |
+Apr 2 Wed | Design for security  (continued)  | | M4a due |
 Apr 4 Fri | **Spring Carnival - No classes** | |
-Apr 7 Mon | Design for security (continued) |  | 
-Apr 9 Wed | Design for usability | [Mental Models](https://www.nngroup.com/articles/mental-models) | M4b due; M5 out |
+Apr 7 Mon | Design for usability | [Mental Models](https://www.nngroup.com/articles/mental-models) | 
+Apr 9 Wed | Design processes | | M4b due; M5 out |
 Apr 11 Fri | Activity: Security | | HW2 out |
 Apr 14 Mon | Software design & AI | |  |
 Apr 16 Wed | Software design & AI (continued) |  | Project Presentation out 
