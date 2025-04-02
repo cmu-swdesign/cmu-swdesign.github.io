@@ -70,7 +70,7 @@ Mar 24 Mon | [Design for robustness](slides/Lecture-16-17-Design-for-Robustness.
 Mar 26 Wed | [Design for robustness (continued)](slides/Lecture-16-17-Design-for-Robustness.pdf) |  | | 
 Mar 28 Fri | [Activity: Robustness](slides/Recitation-8-Robustness.pdf) | | 
 Mar 31 Mon | [Choas engineering](slides/Lecture-16-17-Design-for-Robustness.pdf); [Design for security](slides/Lecture-18-19-Design-for-Security.pdf)  | [Chaos testing at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892); [STRIDE approach](https://learn.microsoft.com/en-us/archive/msdn-magazine/2006/november/uncover-security-design-flaws-using-the-stride-approach) | |
-Apr 2 Wed | [Design for security  (continued)](slides/Lecture-18-19-Design-for-Security.pdf)  | | M4a due |
+Apr 2 Wed | [Design for security  (continued)](slides/Lecture-18-19-Design-for-Security.pdf)  | [Security design principles](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html) | M4a due |
 Apr 4 Fri | **Spring Carnival - No classes** | |
 Apr 7 Mon | Design for usability | [Mental Models](https://www.nngroup.com/articles/mental-models) | 
 Apr 9 Wed | Design processes | | M4b due; M5 out |
