@@ -74,12 +74,13 @@ Apr 2 Wed | [Design for security (continued)](slides/Lecture-18-19-Design-for-Se
 Apr 4 Fri | **Spring Carnival - No classes** | |
 Apr 7 Mon | [Design for usability](slides/Lecture-20-Design-for-Usability.pdf) | [Mental models](https://www.nngroup.com/articles/mental-models); [Usability design heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) | |
 Apr 9 Wed |  Automated design analysis | | M4b due; M5 out |
-Apr 11 Fri | [TBD] | | HW2 out |
+Apr 11 Fri | Project work time (no recitation) | | HW2 out |
 Apr 14 Mon | Software design & AI | |  |
 Apr 16 Wed | Software design & AI (continued) |  | Project Presentation out 
-Apr 18 Fri | Project work time (no recitation) | | M5 due 
-Apr 21 Mon | Course review | | HW2 due 
+Apr 18 Fri | [TBD] | | M5 due 
+Apr 21 Mon | Course review | | 
 Apr 23 Wed | Project presentations | | 
+Apr 25 Fri | [TBD] | | HW2 due 
 
 # Learning Objectives
 
