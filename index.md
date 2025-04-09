@@ -73,7 +73,7 @@ Mar 31 Mon | [Choas engineering](slides/Lecture-16-17-Design-for-Robustness.pdf)
 Apr 2 Wed | [Design for security (continued)](slides/Lecture-18-19-Design-for-Security.pdf)  | [Security design principles](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html) | M4a due |
 Apr 4 Fri | **Spring Carnival - No classes** | |
 Apr 7 Mon | [Design for usability](slides/Lecture-20-Design-for-Usability.pdf) | [Mental models](https://www.nngroup.com/articles/mental-models); [Usability design heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) | |
-Apr 9 Wed |  [Automated design analysis](slides/Lecture-21-Automated-Design-Analysis.pdf) | [How AWS uses formal methods](https://dl.acm.org/doi/pdf/10.1145/2699417) | M4b due; M5 out |
+Apr 9 Wed |  [Automated design analysis](slides/Lecture-21-Automated-Design-Analysis.pdf) | [How AWS uses formal methods](https://dl.acm.org/doi/pdf/10.1145/2699417) | M4b due; [M5](assignments/Project-M5.pdf)  out |
 Apr 11 Fri | Project work time (no recitation) | | HW2 out |
 Apr 14 Mon | Software design & AI | |  |
 Apr 16 Wed | Software design & AI (continued) |  | Project Presentation out 
