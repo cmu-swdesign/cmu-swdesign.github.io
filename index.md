@@ -80,7 +80,7 @@ Apr 16 Wed | Software design & AI (continued) |  | Project Presentation out
 Apr 18 Fri | Project work time (no recitation) | | M5 due 
 Apr 21 Mon | Course review | | 
 Apr 23 Wed | Project presentations | | 
-Apr 25 Fri | Practice exam review | | HW2 due 
+Apr 25 Fri | Exam review | | HW2 due 
 
 # Learning Objectives
 
