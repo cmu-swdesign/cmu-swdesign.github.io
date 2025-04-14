@@ -75,7 +75,7 @@ Apr 4 Fri | **Spring Carnival - No classes** | |
 Apr 7 Mon | [Design for usability](slides/Lecture-20-Design-for-Usability.pdf) | [Mental models](https://www.nngroup.com/articles/mental-models); [Usability design heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) | |
 Apr 9 Wed |  [Automated design analysis](slides/Lecture-21-Automated-Design-Analysis.pdf) | [How AWS uses formal methods](https://dl.acm.org/doi/pdf/10.1145/2699417) | M4b due; [M5](assignments/Project-M5.pdf)  out |
 Apr 11 Fri | Project work time (no recitation) | | |
-Apr 14 Mon | Software design & AI | |  HW2 out |
+Apr 14 Mon | [Software design & AI](slides/Lecture-21-Designing-AI-Systems.pdf) | |  HW2 out |
 Apr 16 Wed | Software design & AI (continued) |  | Project Presentation out 
 Apr 18 Fri | [TBD] | | M5 due 
 Apr 21 Mon | Course review | | 
