@@ -75,12 +75,12 @@ Apr 4 Fri | **Spring Carnival - No classes** | |
 Apr 7 Mon | [Design for usability](slides/Lecture-20-Design-for-Usability.pdf) | [Mental models](https://www.nngroup.com/articles/mental-models); [Usability design heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) | |
 Apr 9 Wed |  [Automated design analysis](slides/Lecture-21-Automated-Design-Analysis.pdf) | [How AWS uses formal methods](https://dl.acm.org/doi/pdf/10.1145/2699417) | M4b due; [M5](assignments/Project-M5.pdf)  out |
 Apr 11 Fri | Project work time (no recitation) | | |
-Apr 14 Mon | [Software design & AI](slides/Lecture-22-Designing-AI-Systems.pdf) | [ML in Production](https://mlip-cmu.github.io/book/02-from-models-to-systems.html) Ch. 2, 5, 7 |  HW2 out |
+Apr 14 Mon | [Software design & AI](slides/Lecture-22-Designing-AI-Systems.pdf) | [ML in Production](https://mlip-cmu.github.io/book/02-from-models-to-systems.html) Ch. 2, 5, 7 |  [HW2](assignments/HW2-Design-for-Scalability.pdf) out |
 Apr 16 Wed | Software design & AI (continued) |  | Project Presentation out 
-Apr 18 Fri | [TBD] | | M5 due 
+Apr 18 Fri | Project work time (no recitation) | | M5 due 
 Apr 21 Mon | Course review | | 
 Apr 23 Wed | Project presentations | | 
-Apr 25 Fri | [TBD] | | HW2 due 
+Apr 25 Fri | Practice exam review | | HW2 due 
 
 # Learning Objectives
 
