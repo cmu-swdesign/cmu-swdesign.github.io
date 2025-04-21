@@ -78,7 +78,7 @@ Apr 11 Fri | Project work time (no recitation) | | |
 Apr 14 Mon | [Software design & AI](slides/Lecture-22-Designing-AI-Systems.pdf) | [ML in Production](https://mlip-cmu.github.io/book/02-from-models-to-systems.html) Ch. 2, 5, 7 |  [HW2](assignments/HW2-Design-for-Scalability.pdf) out |
 Apr 16 Wed | [Software design & AI (continued)](slides/Lecture-23-Responsible-Design.pdf) | [ML in Production](https://mlip-cmu.github.io/book/02-from-models-to-systems.html) Ch. 23, 26 | [Project Presentation](assignments/Project-Presentation.pdf) out 
 Apr 18 Fri | Project work time (no recitation) | | M5 due 
-Apr 21 Mon | Course review | | 
+Apr 21 Mon | [Course review](slides/Lecture-24-Course-Review.pdf) | | 
 Apr 23 Wed | Project presentations | | 
 Apr 25 Fri | Exam review | | HW2 due 
 
