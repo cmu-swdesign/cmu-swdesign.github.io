@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 17-423/723 Designing Large-scale Software Systems
-subtitle: Spring 2025
+title: 17-423/723 Software System Design
+subtitle: Spring 2026
 ---
 
 # Course Description
@@ -14,25 +14,25 @@ This course teaches students how to design complex, large-scale software systems
 
 ### Prerequisites
 
-- Intermediate programming skills and/or experience with building medium-size programs (e.g., 17-214, 17-313)
+- Intermediate programming skills and/or experience with building medium-size programs
 - Experience with unit tests and version control systems (e.g., Git)
 - An interest in learning from failures and a growth mindset
 
 ### Time & Location
-- Lectures: Mon & Wed, 9:30-10:50 AM SH 238
-- Recitation: Friday, 10:00-10:50 AM HH B103
-- Office Hours: Thursday, 05:00-06:00 PM NSH 3002
+- Lectures: Mon & Wed, 9:30-10:50 AM (Location TBD)
+- Recitation: Friday, 10:00-10:50 AM (Location TBD)
+- Office Hours: TBD
 
 ### Course Staff
 
 - Instructor: [Eunsuk Kang](https://eskang.github.io/) (eunsukk@andrew)
-- TA: Shivam Bansal (shivamb@andrew)
+- TA: TBD
 
 ### Readings
 
 There is no single official textbook for this course. Instead, readings will be assigned from academic and industry articles, book chapters, blog posts, and videos. Please see Canvas for more information about the readings.
 
-# Class Schedule
+# Class Schedule (from 2025; to be updated)
 
 Date | Topic | Reading | Assignment
 -| - | - | -
@@ -114,23 +114,14 @@ Educational research shows that active student participation in lectures is cruc
 
 # Course and Grading Policies
 
-### Late Work Policy and Resubmissions
-We understand that it is sometimes difficult to avoid conflicting deadlines or other obligations such as job interviews. We therefore build flexibility and a safety net directly into the rubric. If you need additional accommodations, please contact us.
-
-Every student receives 7 tokens that they can spend throughout the semester in the following ways:
-- For each token a student can submit a homework assignment 1 day late.
-- For three tokens a student can redo an individual homework assignment and resubmit. The earlier submission is discarded and the regraded assignment counts toward the final grade. Resubmissions must be received before the final presentation.
-- For example, with 7 tokens a student can submit multiple homeworks one day late each or redo one homework twice and submit another homework one day lat. 
-- Remaining tokens at the end of the semester are counted as one participation day each.
-
-If a student runs out of tokens, individual assignments receive a penalty of 15% per day.
-Exceptions to this policy will be made at the discretion of the instructors in important circumstances, such as involving a family or medical emergency. You may also ask your academic advisor or the Dean of Student Affairs requesting the exception on your behalf. Please communicate also with your team about potential timing issues.
-
 ### Participation Policy
 Class participation will be graded by lecture and recitation engagement, including asking relevant questions, contributing to class discussions, and participating in in-class exercises. Completion of exit tickets will also count towards the participation grade.
 
 ### Time Management
 This is a 12-unit course, and it is our intention to manage it so that you spend close to 12 hours a week on the course on average. In general, 4 hours/week will be spent in class, 1-2 hours on readings, and 6-7 hours on assignments and the project. Please give the course staff feedback if the amount of time you spend on the course differs significantly from the expectations. We are happy to provide tips on time management and will adjust the course load if we notice that many students are raising issues.
+
+### Late Submission Policy
+We understand that it is sometimes difficult to avoid conflicting deadlines or other obligations such as job interviews. If you need additional accommodations, please contact us.
 
 ### Academic Integrity
 Honesty and transparency are important to good scholarship. Plagiarism and cheating, however, are serious academic offenses with serious consequences. If you are discovered engaging in either behavior in this course, you will earn a failing grade on the assignment in question, and further disciplinary action may be taken. 
