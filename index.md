@@ -85,7 +85,7 @@ Apr 25 Fri | Exam review | | HW2 due
 # Learning Objectives
 
 After taking this course, students will be able to:
-- Describe, recognise, and apply principles for: Design for reuse, design with reuse, design for change, design for robustness, design for testability, and design for scale
+- Describe, recognise, and apply design principles for (but not limited to): Reusability, testability, changeability, robustness, scalability, security, and safety.
 - Explain how to adapt a software design process to fit different domains, such as robotics, web apps, mobile apps, and medical systems
 - Identify, describe, and prioritize relevant requirements for a given design problem
 - Generate viable design solutions that appropriately satisfy the trade-offs between given requirements 
