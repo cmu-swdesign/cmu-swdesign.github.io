@@ -43,7 +43,7 @@ Jan 19 Mon | **MLK Jr Day - No classes** | |
 Jan 21 Wed | Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | HW1 out
 Jan 23 Fri | Activity: Modeling systems | | 
 Jan 26 Mon | Quality attributes & trade-offs | [Software Architecture in Practice](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019829138004436) Ch. 3; [Fowler article on quality](https://martinfowler.com/articles/is-quality-worth-cost.html) |
-Jan 28 Wed | Interface design | [Program Development in Java](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576667704436) Ch. 9  | HW1 due
+Jan 28 Wed | Interface design | [Program Development in Java](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576667704436) Ch. 9 | HW1 due
 Jan 30 Fri | Activity: Making trade-offs | | 
 Feb 2 Mon | Design for change | ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) |  | 
 Feb 4 Wed | Design for change (continued) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | | |
@@ -69,7 +69,7 @@ Mar 20 Fri | Activity: Scalability |  |
 Mar 23 Mon | Design for robustness | [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | |
 Mar 25 Wed | Design for robustness (continued) |  | | 
 Mar 27 Fri | Activity: Robustness | | 
-Mar 30 Mon | Chaos engineering; Design for security | [Chaos testing at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892); [STRIDE approach](https://learn.microsoft.com/en-us/archive/msdn-magazine/2006/november/uncover-security-design-flaws-using-the-stride-approach) | |
+Mar 30 Mon | Chaos engineering; Design for security | [Chaos testing at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892); [STRIDE approach](https://learn.microsoft.com/en-us/archive/msdn-magazine/2006/november/uncover-security-design-flaws-using-the-stride-approach) | Activity: Security |
 Apr 1 Wed | Design for security (continued) | [Security design principles](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html) |  |
 Apr 3 Fri | TBD | |
 Apr 6 Mon | Design for usability | [Mental models](https://www.nngroup.com/articles/mental-models); [Usability design heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) | |
