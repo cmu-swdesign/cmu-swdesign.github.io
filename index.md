@@ -41,10 +41,10 @@ Jan 14 Wed | Problem vs. solution space | [The World and the Machine](https://sc
 Jan 16 Fri | Activity: Problem space | |  
 Jan 19 Mon | **MLK Jr Day - No classes** | | 
 Jan 21 Wed | Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | HW1 out
-Jan 23 Fri |  | | 
+Jan 23 Fri | Activity: Modeling systems | | 
 Jan 26 Mon | Quality attributes & trade-offs | [Software Architecture in Practice](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019829138004436) Ch. 3; [Fowler article on quality](https://martinfowler.com/articles/is-quality-worth-cost.html) |
 Jan 28 Wed | Interface design | [Program Development in Java](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576667704436) Ch. 9  | HW1 due
-Jan 30 Fri |  | | 
+Jan 30 Fri | Activity: Making trade-offs | | 
 Feb 2 Mon | Design for change | ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) |  | 
 Feb 4 Wed | Design for change | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | | |
 Feb 6 Fri | Activity: Changeability | | | 
