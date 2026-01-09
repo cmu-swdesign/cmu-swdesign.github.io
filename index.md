@@ -19,8 +19,8 @@ This course teaches students how to design complex, large-scale software systems
 - An interest in learning from failures and a growth mindset
 
 ### Time & Location
-- Lectures: Mon & Wed, 9:30-10:50 AM (Location TBD)
-- Recitation: Friday, 10:00-10:50 AM (Location TBD)
+- Lectures: Mon & Wed, 9:30-10:50 AM (GHC 4303)
+- Recitation: Friday, 10:00-10:50 AM (GHC 4303)
 - Office Hours: TBD
 
 ### Course Staff
