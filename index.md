@@ -45,38 +45,38 @@ Jan 23 Fri | Activity: Modeling systems | |
 Jan 26 Mon | Quality attributes & trade-offs | [Software Architecture in Practice](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019829138004436) Ch. 3; [Fowler article on quality](https://martinfowler.com/articles/is-quality-worth-cost.html) |
 Jan 28 Wed | Interface design | [Program Development in Java](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576667704436) Ch. 9 | HW1 due
 Jan 30 Fri | Activity: Making trade-offs | | 
-Feb 2 Mon | Design for change | ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) |  | 
-Feb 4 Wed | Design for change (continued) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | | |
-Feb 6 Fri | Activity: Changeability | | | 
-Feb 9 Mon |  Design for testability | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 6, 7 | |
-Feb 11 Wed | Design for testability (continued) | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 4, 8 | |
-Feb 13 Fri | Activity: Testability | | |
-Feb 16 Mon | Midterm | | |
-Feb 18 Wed | Design for interoperability | | |
-Feb 20 Fri | Midterm review |  | |
-Feb 23 Mon | TBD | | |
-Feb 25 Wed | TBD | | |
-Feb 27 Fri | TBD | | |
+Feb 2 Mon | Design for change | ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) |  
+Feb 4 Wed | Design for change (continued) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | 
+Feb 6 Fri | Activity: Changeability | | 
+Feb 9 Mon |  Design for testability | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 6, 7 | 
+Feb 11 Wed | Design for testability (continued) | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 4, 8 | 
+Feb 13 Fri | Activity: Testability | | 
+Feb 16 Mon | Midterm | | 
+Feb 18 Wed | Design for interoperability | | 
+Feb 20 Fri | Midterm review | | 
+Feb 23 Mon | TBD | | 
+Feb 25 Wed | TBD | | 
+Feb 27 Fri | TBD | | 
 Mar 2 Mon | **Spring break - No classes** | | 
 Mar 4 Wed | **Spring break - No classes** | |  
 Mar 6 Fri | **Spring break - No classes** | | 
-Mar 9 Mon | Design reviews | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
-Mar 11 Wed | Cross-team interface design session | [Design It! From Programmer to Software Architect](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578124804436) Ch. 9 | |
-Mar 13 Fri | Activity: Service integration |  | |
+Mar 9 Mon | Design reviews | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) |  
+Mar 11 Wed | Cross-team interface design session | [Design It! From Programmer to Software Architect](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578124804436) Ch. 9 | 
+Mar 13 Fri | Activity: Service integration | | 
 Mar 16 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
-Mar 18 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | |
-Mar 20 Fri | Activity: Scalability |  |  
-Mar 23 Mon | Design for robustness | [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | |
-Mar 25 Wed | Design for robustness (continued) |  | | 
+Mar 18 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | 
+Mar 20 Fri | Activity: Scalability | |  
+Mar 23 Mon | Design for robustness | [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | 
+Mar 25 Wed | Design for robustness (continued) | | 
 Mar 27 Fri | Activity: Robustness | | 
-Mar 30 Mon | Chaos engineering; Design for security | [Chaos testing at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892); [STRIDE approach](https://learn.microsoft.com/en-us/archive/msdn-magazine/2006/november/uncover-security-design-flaws-using-the-stride-approach) | |
-Apr 1 Wed | Design for security (continued) | [Security design principles](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html) |  |
-Apr 3 Fri | Activity: Security | | |
-Apr 6 Mon | Design for usability | [Mental models](https://www.nngroup.com/articles/mental-models); [Usability design heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) | |
-Apr 8 Wed | Design for usability (continued) | |  |
-Apr 10 Fri | **Spring Carnival - No classes** | | |
-Apr 13 Mon | Designing AI systems |  |   |
-Apr 15 Wed | Designing AI systems (continued)|  | 
+Mar 30 Mon | Chaos engineering; Design for security | [Chaos testing at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892); [STRIDE approach](https://learn.microsoft.com/en-us/archive/msdn-magazine/2006/november/uncover-security-design-flaws-using-the-stride-approach) | 
+Apr 1 Wed | Design for security (continued) | [Security design principles](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html) |  
+Apr 3 Fri | Activity: Security | | 
+Apr 6 Mon | Design for usability | [Mental models](https://www.nngroup.com/articles/mental-models); [Usability design heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) | 
+Apr 8 Wed | Design for usability (continued) | | 
+Apr 10 Fri | **Spring Carnival - No classes** | | 
+Apr 13 Mon | Designing AI systems | | 
+Apr 15 Wed | Designing AI systems (continued) | | 
 Apr 17 Fri | Project work time (no recitation) | | 
 Apr 20 Mon | Course review | | 
 Apr 22 Wed | Project presentations | | 
