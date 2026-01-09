@@ -54,9 +54,9 @@ Feb 13 Fri | Activity: Testability | | |
 Feb 16 Mon | Midterm | | |
 Feb 18 Wed | Design for Interoperability | | |
 Feb 20 Fri | Midterm review |  | |
-Feb 23 Mon | | | |
-Feb 25 Wed | | | |
-Feb 27 Fri | | | |
+Feb 23 Mon | TBD | | |
+Feb 25 Wed | TBD | | |
+Feb 27 Fri | TBD | | |
 Mar 2 Mon | **Spring break - No classes** | | 
 Mar 4 Wed | **Spring break - No classes** | |  
 Mar 6 Fri | **Spring break - No classes** | | 
