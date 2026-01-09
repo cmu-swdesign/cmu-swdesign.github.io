@@ -46,26 +46,26 @@ Jan 26 Mon | Quality attributes & trade-offs | [Software Architecture in Practic
 Jan 28 Wed | Interface design | [Program Development in Java](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576667704436) Ch. 9  | HW1 due
 Jan 30 Fri | Activity: Making trade-offs | | 
 Feb 2 Mon | Design for change | ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) |  | 
-Feb 4 Wed | Design for change | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | | |
+Feb 4 Wed | Design for change (continued) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | | |
 Feb 6 Fri | Activity: Changeability | | | 
 Feb 9 Mon |  Design for testability | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 6, 7 | |
 Feb 11 Wed | Design for testability (continued) | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 4, 8 | |
-Feb 13 Fri |  Activity: Testability | | |
-Feb 16 Mon |  Midterm | | |
-Feb 18 Wed | | | |
-Feb 20 Fri | |  | |
+Feb 13 Fri | Activity: Testability | | |
+Feb 16 Mon | Midterm | | |
+Feb 18 Wed | Design for Interoperability | | |
+Feb 20 Fri | Midterm review |  | |
 Feb 23 Mon | | | |
 Feb 25 Wed | | | |
 Feb 27 Fri |  | |  |
 Mar 2 Mon | **Spring break - No classes** | | 
 Mar 4 Wed | **Spring break - No classes** | |  [M3](assignments/Project-M3.pdf) out
 Mar 6 Fri | **Spring break - No classes** | | 
-Mar 9 Mon | [Design reviews](slides/Lecture-12-Design-Review.pdf) | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
-Mar 11 Wed | [Cross-team interface design session](slides/Lecture-13-Interface-Design-Session.pdf) | [Design It! From Programmer to Software Architect](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578124804436) Ch. 9 | |
-Mar 13 Fri | [Activity: Service Integration](slides/Recitation-6-Service-Integration.pdf) | [Pact](https://docs.pact.io/) | |
-Mar 16 Mon | [Design for scalability](slides/Lecture-14-15-Design-for-Scalability.pdf) | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
-Mar 18 Wed | [Design for scalability (continued)](slides/Lecture-14-15-Design-for-Scalability.pdf)  | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | |
-Mar 20 Fri | [Activity: Scalability](slides/Recitation-7-Scalability.pdf) |  |  M3 due; [M4](assignments/Project-M4.pdf) out
+Mar 9 Mon | Design reviews | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
+Mar 11 Wed | Cross-team interface design session | [Design It! From Programmer to Software Architect](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578124804436) Ch. 9 | |
+Mar 13 Fri | Activity: Service Integration |  | |
+Mar 16 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
+Mar 18 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | |
+Mar 20 Fri | Activity: Scalability](slides/Recitation-7-Scalability.pdf) |  |  M3 due; [M4](assignments/Project-M4.pdf) out
 Mar 23 Mon | [Design for robustness](slides/Lecture-16-17-Design-for-Robustness.pdf)| [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | |
 Mar 25 Wed | [Design for robustness (continued)](slides/Lecture-16-17-Design-for-Robustness.pdf) |  | | 
 Mar 27 Fri | [Activity: Robustness](slides/Recitation-8-Robustness.pdf) | | 
