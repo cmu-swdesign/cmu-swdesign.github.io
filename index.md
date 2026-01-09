@@ -52,7 +52,7 @@ Feb 9 Mon |  Design for testability | [Effective Software Testing](https://cmu.p
 Feb 11 Wed | Design for testability (continued) | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 4, 8 | |
 Feb 13 Fri | Activity: Testability | | |
 Feb 16 Mon | Midterm | | |
-Feb 18 Wed | Design for Interoperability | | |
+Feb 18 Wed | Design for interoperability | | |
 Feb 20 Fri | Midterm review |  | |
 Feb 23 Mon | TBD | | |
 Feb 25 Wed | TBD | | |
@@ -62,7 +62,7 @@ Mar 4 Wed | **Spring break - No classes** | |
 Mar 6 Fri | **Spring break - No classes** | | 
 Mar 9 Mon | Design reviews | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | | 
 Mar 11 Wed | Cross-team interface design session | [Design It! From Programmer to Software Architect](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578124804436) Ch. 9 | |
-Mar 13 Fri | Activity: Service Integration |  | |
+Mar 13 Fri | Activity: Service integration |  | |
 Mar 16 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
 Mar 18 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | |
 Mar 20 Fri | Activity: Scalability |  |  
