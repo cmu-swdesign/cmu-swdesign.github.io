@@ -36,14 +36,14 @@ There is no single official textbook for this course. Instead, readings will be 
 
 Date | Topic | Reading | Assignment
 -| - | - | -
-Jan 12 Mon | [Introduction and motivation](slides/Lecture-1-Introduction.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 3 |  
-Jan 14 Wed | [Problem vs. solution space](slides/Lecture-2-Problem-Space.pdf) | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
-Jan 16 Fri | [Activity: Problem space](slides/Recitation-1-Problem-Space.pdf)  | |  
+Jan 12 Mon | Introduction and motivation | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 3 |  
+Jan 14 Wed | Problem vs. solution space | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
+Jan 16 Fri | Activity: Problem space | |  
 Jan 19 Mon | **MLK Jr Day - No classes** | | 
-Jan 21 Wed |  [Design abstractions](slides/Lecture-3-Design-Abstractions.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | [HW1](assignments/HW1-Domain-and-Design-Modeling.pdf) out
-Jan 23 Fri |  [Teamwork guidelines](slides/Recitation-2-Teamwork.pdf)  | | 
-Jan 26 Mon | [Quality attributes & trade-offs](slides/Lecture-4-Quality-Attributes.pdf) | [Software Architecture in Practice](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019829138004436) Ch. 3; [Fowler article on quality](https://martinfowler.com/articles/is-quality-worth-cost.html) |
-Jan 28 Wed |  [Design for change](slides/Lecture-5-Design-for-Change.pdf) | Information hiding: ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) | HW1 due; [M1](assignments/Project-M1.pdf) out
+Jan 21 Wed | Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | HW1 out
+Jan 23 Fri | TBD | | 
+Jan 26 Mon | Quality attributes & trade-offs | [Software Architecture in Practice](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019829138004436) Ch. 3; [Fowler article on quality](https://martinfowler.com/articles/is-quality-worth-cost.html) |
+Jan 28 Wed |  |   | HW1 due; M1 out
 Jan 30 Fri | [Activity: QAs & trade-offs](slides/Recitation-3-QA-tradeoffs.pdf) | [Handout](assignments/Rec3-handout.pdf) ([solution](assignments/Rec3-sample-solution.pdf)) | 
 Feb 2 Mon | [Design for change (continued)](slides/Lecture-6-Design-for-Change-2.pdf) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 |  | 
 Feb 4 Wed |  [Designing interface specifications](slides/Lecture-7-Interface-Specifications.pdf) | [Program Development in Java](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576667704436) Ch. 9 | |
