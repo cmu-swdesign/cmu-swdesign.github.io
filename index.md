@@ -26,7 +26,7 @@ This course teaches students how to design complex, large-scale software systems
 ### Course Staff
 
 - Instructor: [Eunsuk Kang](https://eskang.github.io/) (eunsukk@andrew)
-- TA: TBD
+- TA: [Yining She](https://sheyining.github.io/) (yiningsh@andrew)
 
 ### Readings
 
