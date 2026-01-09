@@ -41,22 +41,22 @@ Jan 14 Wed | Problem vs. solution space | [The World and the Machine](https://sc
 Jan 16 Fri | Activity: Problem space | |  
 Jan 19 Mon | **MLK Jr Day - No classes** | | 
 Jan 21 Wed | Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | HW1 out
-Jan 23 Fri | TBD | | 
+Jan 23 Fri |  | | 
 Jan 26 Mon | Quality attributes & trade-offs | [Software Architecture in Practice](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019829138004436) Ch. 3; [Fowler article on quality](https://martinfowler.com/articles/is-quality-worth-cost.html) |
-Jan 28 Wed |  |   | HW1 due; M1 out
-Jan 30 Fri | [Activity: QAs & trade-offs](slides/Recitation-3-QA-tradeoffs.pdf) | [Handout](assignments/Rec3-handout.pdf) ([solution](assignments/Rec3-sample-solution.pdf)) | 
-Feb 2 Mon | [Design for change (continued)](slides/Lecture-6-Design-for-Change-2.pdf) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 |  | 
-Feb 4 Wed |  [Designing interface specifications](slides/Lecture-7-Interface-Specifications.pdf) | [Program Development in Java](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576667704436) Ch. 9 | |
-Feb 6 Fri | [Activity: Changeability](slides/Recitation-4-Design-for-Change.pdf) |  [Handout](assignments/Rec4-handout.pdf) ([solution](assignments/Rec4-sample-solution.pdf)) | | 
-Feb 9 Mon |  [Design for testability](slides/Lecture-8-9-Design-for-Testability.pdf) | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 6, 7 | M1 due; [M2](assignments/Project-M2.pdf) out |
-Feb 11 Wed | [Design for testability (continued)](slides/Lecture-8-9-Design-for-Testability.pdf) | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 4, 8 | |
-Feb 13 Fri |  [Activity: Testability](slides/Recitation-5-Design-for-Testability.pdf) | [Handout](assignments/Rec5-handout.pdf) ([solution](assignments/Rec5-sample-solution.pdf)) | |
+Jan 28 Wed | Interface design | [Program Development in Java](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576667704436) Ch. 9  | HW1 due
+Jan 30 Fri |  | | 
+Feb 2 Mon | Design for change | ([IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/)) ([Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623)) |  | 
+Feb 4 Wed | Design for change | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | | |
+Feb 6 Fri | Activity: Changeability | | | 
+Feb 9 Mon |  Design for testability | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 6, 7 | |
+Feb 11 Wed | Design for testability (continued) | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 4, 8 | |
+Feb 13 Fri |  Activity: Testability | | |
 Feb 16 Mon |  Midterm | | |
-Feb 18 Wed |  <s>Design for interoperability</s> (moved to Feb 21) | | |
-Feb 20 Fri |  [Design for interoperability](slides/Lecture-10-Design-for-Interoperability.pdf) | [FAIR Principles](https://www.go-fair.org/fair-principles/)  | |
-Feb 23 Mon | [Design with reuse](slides/Lecture-11-Design-with-Reuse.pdf) | | |
-Feb 25 Wed | Project work time (no lecture) | | |
-Feb 27 Fri | Midterm discussion | | M2 due |
+Feb 18 Wed | | | |
+Feb 20 Fri | |  | |
+Feb 23 Mon | | | |
+Feb 25 Wed | | | |
+Feb 27 Fri |  | |  |
 Mar 2 Mon | **Spring break - No classes** | | 
 Mar 4 Wed | **Spring break - No classes** | |  [M3](assignments/Project-M3.pdf) out
 Mar 6 Fri | **Spring break - No classes** | | 
