@@ -92,7 +92,6 @@ After taking this course, students will be able to:
 - Apply appropriate abstractions & modeling techniques to communicate and document design solutions
 - Evaluate design solutions based on their satisfaction of common design principles and  trade-offs between different quality attributes
 
-
 # Course Philosophy 
 
 ### Hands-on Experience in a Collaborative Project
