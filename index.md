@@ -37,7 +37,7 @@ There is no single official textbook for this course. Instead, readings will be 
 Date | Topic | Reading | Assignment
 -| - | - | -
 Jan 12 Mon | [Introduction and motivation](slides/Lecture-1-Introduction.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 3 |  
-Jan 14 Wed | Problem vs. solution space | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
+Jan 14 Wed | [Problem vs. solution space](slides/Lecture-2-Problem-Space.pdf) | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
 Jan 16 Fri | Activity: Problem space | |  
 Jan 19 Mon | **MLK Jr Day - No classes** | | 
 Jan 21 Wed | Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | HW1 out
