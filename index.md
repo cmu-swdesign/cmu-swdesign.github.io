@@ -40,7 +40,7 @@ Jan 12 Mon | [Introduction and motivation](slides/Lecture-1-Introduction.pdf) | 
 Jan 14 Wed | [Problem vs. solution space](slides/Lecture-2-Problem-Space.pdf) | [The World and the Machine](https://scholar.google.com/scholar?cluster=1090758480873197042)  | 
 Jan 16 Fri | [Activity: Problem space](slides/Recitation-1-Problem-Space.pdf) | |  
 Jan 19 Mon | **MLK Jr Day - No classes** | | 
-Jan 21 Wed | Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | HW1 out
+Jan 21 Wed | Design abstractions | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | [HW1](assignments/HW1-Domain-Design-Modeling.pdf)
 Jan 23 Fri | Activity: Modeling systems | | 
 Jan 26 Mon | Quality attributes & trade-offs | [Software Architecture in Practice](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019829138004436) Ch. 3; [Fowler article on quality](https://martinfowler.com/articles/is-quality-worth-cost.html) |
 Jan 28 Wed | Interface design | [Program Development in Java](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576667704436) Ch. 9 | HW1 due
