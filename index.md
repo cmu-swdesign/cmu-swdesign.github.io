@@ -21,12 +21,16 @@ This course teaches students how to design complex, large-scale software systems
 ### Time & Location
 - Lectures: Mon & Wed, 9:30-10:50 AM (GHC 4303)
 - Recitation: Friday, 10:00-10:50 AM (GHC 4303)
-- Office Hours: TBD
 
 ### Course Staff
 
 - Instructor: [Eunsuk Kang](https://eskang.github.io/) (eunsukk@andrew)
 - TA: [Yining She](https://sheyining.github.io/) (yiningsh@andrew)
+
+### Office Hours
+
+- Yining: Wednesday 5:00-6:00 PM (TCS 310)
+- Eunsuk: Friday 4:00-5:00 PM (TCS 322)
 
 ### Readings
 
