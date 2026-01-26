@@ -46,7 +46,7 @@ Jan 16 Fri | [Activity: Problem space](slides/Recitation-1-Problem-Space.pdf) | 
 Jan 19 Mon | **MLK Jr Day - No classes** | | 
 Jan 21 Wed | [Design abstractions](slides/Lecture-3-Design-Abstractions.pdf) | [Just Enough Architecture](https://www.georgefairbanks.com/e-book/) Ch. 6 & 9 | [HW1](assignments/HW1-Domain-Design-Modeling.pdf) out
 Jan 23 Fri | [Activity: Design models](slides/Recitation-2-Design-Models.pdf) | | 
-Jan 26 Mon | Quality attributes & trade-offs | [Software Architecture in Practice](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019829138004436) Ch. 3; [Fowler article on quality](https://martinfowler.com/articles/is-quality-worth-cost.html) |
+Jan 26 Mon | [Quality attributes & trade-offs](slides/Lecture-4-Quality-Attributes.pdf) | [Software Architecture in Practice](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019829138004436) Ch. 3; [Fowler article on quality](https://martinfowler.com/articles/is-quality-worth-cost.html) |
 Jan 28 Wed | Interface design | [Program Development in Java](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576667704436) Ch. 9 | HW1 due
 Jan 30 Fri | Activity: Making trade-offs | | 
 Feb 2 Mon | Design for change | [IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/); [Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623) |  
