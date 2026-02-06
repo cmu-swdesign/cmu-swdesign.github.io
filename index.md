@@ -51,7 +51,7 @@ Jan 28 Wed | [Designing interface specifications](slides/Lecture-5-Interface-Spe
 Jan 30 Fri | [Activity: Interface specifications](slides/Recitation-3-Interface-Specifications.pdf) | | 
 Feb 2 Mon | [Design for change](slides/Lecture-6-Design-for-Change.pdf) | [IEEE Software article](https://stevemcconnell.com/articles/missing-in-action-information-hiding/); [Parnas 1972](https://dl.acm.org/doi/pdf/10.1145/361598.361623) |  
 Feb 4 Wed | [Design for change (continued)](slides/Lecture-7-Design-for-Change-II.pdf) | [Clean Architecture](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019696543704436) Ch. 7, 10, 11, 22 | 
-Feb 6 Fri | Activity: Changeability | | 
+Feb 6 Fri | [Activity: Changeability](slides/Recitation-4-Design-for-Change.pdf) | | 
 Feb 9 Mon |  Design for testability | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 6, 7 | M1 due; M2 out
 Feb 11 Wed | Design for testability (continued) | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 4, 8 | 
 Feb 13 Fri | Activity: Testability | | 
