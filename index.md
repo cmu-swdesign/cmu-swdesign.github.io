@@ -56,7 +56,7 @@ Feb 9 Mon |  [Design for testability](slides/Lecture-8-9-Design-for-Testability.
 Feb 11 Wed | Design for testability (continued) | [Effective Software Testing](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019933546204436) Ch. 4, 8 | 
 Feb 13 Fri | [Activity: Testability](slides/Recitation-5-Design-for-Testability.pdf) | | 
 Feb 16 Mon | Midterm | | 
-Feb 18 Wed | Design for interoperability | | 
+Feb 18 Wed | [Design for interoperability](slides/Lecture-9-Design-for-Interoperability.pdf) | [FAIR Principles](https://www.go-fair.org/fair-principles/) | 
 Feb 20 Fri | Midterm review | | 
 Feb 23 Mon | TBD | | 
 Feb 25 Wed | TBD | | 
