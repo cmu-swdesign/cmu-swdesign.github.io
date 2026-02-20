@@ -60,7 +60,7 @@ Feb 18 Wed | [Design for interoperability](slides/Lecture-10-Design-for-Interope
 Feb 20 Fri | Midterm review | | 
 Feb 23 Mon | Design reviews | [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | 
 Feb 25 Wed | TBD | | 
-Feb 27 Fri | TBD | | M2 due; M3 out
+Feb 27 Fri | Project work time (no recitation) | | M2 due; M3 out
 Mar 2 Mon | **Spring break - No classes** | | 
 Mar 4 Wed | **Spring break - No classes** | |  
 Mar 6 Fri | **Spring break - No classes** | | 
