@@ -58,7 +58,7 @@ Feb 13 Fri | [Activity: Testability](slides/Recitation-5-Design-for-Testability.
 Feb 16 Mon | Midterm | | 
 Feb 18 Wed | [Design for interoperability](slides/Lecture-10-Design-for-Interoperability.pdf) | [FAIR Principles](https://www.go-fair.org/fair-principles/) | 
 Feb 20 Fri | Midterm review | | 
-Feb 23 Mon | Design reviews | [Intellectual Control](https://www.georgefairbanks.com/ieee-software-v36-n1-jan-2019-intellectual-control), [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | 
+Feb 23 Mon | [Design reviews](slides/Lecture-11-Design-Reviews.pdf) | [Intellectual Control](https://www.georgefairbanks.com/ieee-software-v36-n1-jan-2019-intellectual-control), [Improving Design Reviews at Google](https://research.google/pubs/improving-design-reviews-at-google/) | 
 Feb 25 Wed | Designing with AI | | 
 Feb 27 Fri | Project work time (no recitation) | | M2 due; M3 out
 Mar 2 Mon | **Spring break - No classes** | | 
