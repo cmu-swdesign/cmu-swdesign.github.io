@@ -65,11 +65,11 @@ Mar 2 Mon | **Spring break - No classes** | |
 Mar 4 Wed | **Spring break - No classes** | |  
 Mar 6 Fri | **Spring break - No classes** | | 
 Mar 9 Mon | Cross-team interface design session | [Design It! From Programmer to Software Architect](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578124804436) Ch. 9 |  
-Mar 11 Wed | TBD |  | 
+Mar 11 Wed | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
 Mar 13 Fri | Activity: Service integration | | 
-Mar 16 Mon | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
-Mar 18 Wed | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | 
-Mar 20 Fri | Activity: Scalability | |  
+Mar 16 Mon | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | 
+Mar 18 Wed | Design for scalability (continued) | | 
+Mar 20 Fri | Activity: Scalability | |  M3 due; M4 out
 Mar 23 Mon | Design for robustness | [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | 
 Mar 25 Wed | Design for robustness (continued) | | 
 Mar 27 Fri | Activity: Robustness | | 
