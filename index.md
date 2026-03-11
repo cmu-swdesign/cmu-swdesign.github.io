@@ -65,7 +65,7 @@ Mar 2 Mon | **Spring break - No classes** | |
 Mar 4 Wed | **Spring break - No classes** | |  
 Mar 6 Fri | **Spring break - No classes** | | 
 Mar 9 Mon | [Cross-team interface design session](slides/Lecture-13-Interface-Design-Session.pdf) | [Design It! From Programmer to Software Architect](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578124804436) Ch. 9 |  
-Mar 11 Wed | Design for scalability | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
+Mar 11 Wed | [Design for scalability](slides/Lecture-14-Design-for-Scalability.pdf) | [Designing Data-intensive Applications](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019578119704436) Ch. 1, 5, 6 | 
 Mar 13 Fri | Activity: Service integration | | 
 Mar 16 Mon | Design for scalability (continued) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | 
 Mar 18 Wed | Design for scalability (continued) | | 
