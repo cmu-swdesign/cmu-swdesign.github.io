@@ -69,7 +69,7 @@ Mar 11 Wed | [Design for scalability](slides/Lecture-14-15-16-Design-for-Scalabi
 Mar 13 Fri | [Activity: Service integration](slides/Recitation-6-Service-Integration.pdf) | | 
 Mar 16 Mon | [Design for scalability (continued)](slides/Lecture-14-15-16-Design-for-Scalability.pdf) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | 
 Mar 18 Wed | [Design for scalability (continued)](slides/Lecture-14-15-16-Design-for-Scalability.pdf) | | 
-Mar 20 Fri | Activity: Scalability | |  M3 due; M4 out
+Mar 20 Fri | [Activity: Scalability](slides/Recitation-7-Scalability.pdf) | |  M3 due; M4 out
 Mar 23 Mon | Design for robustness | [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | 
 Mar 25 Wed | Design for robustness (continued) | | 
 Mar 27 Fri | Activity: Robustness | | 
