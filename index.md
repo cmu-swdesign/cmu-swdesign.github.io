@@ -79,9 +79,9 @@ Apr 3 Fri | Activity: Security | |
 Apr 6 Mon | Design for usability | [Mental models](https://www.nngroup.com/articles/mental-models); [Usability design heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) | 
 Apr 8 Wed | Design for usability (continued) | | M4 Part B due; M5 out
 Apr 10 Fri | **Spring Carnival - No classes** | | 
-Apr 13 Mon | Designing AI systems | | 
-Apr 15 Wed | Designing AI systems (continued) | | Final Presentation out
-Apr 17 Fri | Project work time (no recitation) | | M5 due 
+Apr 13 Mon | TBD | | 
+Apr 15 Wed | TBD | | Final Presentation out
+Apr 17 Fri | TBD | | M5 due 
 Apr 20 Mon | Course review | | 
 Apr 22 Wed | Project presentations | | 
 Apr 24 Fri | Exam review | | 
