@@ -69,19 +69,19 @@ Mar 11 Wed | [Design for scalability](slides/Lecture-14-15-16-Design-for-Scalabi
 Mar 13 Fri | [Activity: Service integration](slides/Recitation-6-Service-Integration.pdf) | | 
 Mar 16 Mon | [Design for scalability (continued)](slides/Lecture-14-15-16-Design-for-Scalability.pdf) | [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) | 
 Mar 18 Wed | [Design for scalability (continued)](slides/Lecture-14-15-16-Design-for-Scalability.pdf) | | 
-Mar 20 Fri | [Activity: Scalability](slides/Recitation-7-Scalability.pdf) | |  M3 due; M4 out
+Mar 20 Fri | [Activity: Scalability](slides/Recitation-7-Scalability.pdf) | |  M3 due; [M4](assignments/Project-M4.pdf) out
 Mar 23 Mon | Design for robustness | [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | 
 Mar 25 Wed | Design for robustness (continued) | | 
 Mar 27 Fri | Activity: Robustness | | 
 Mar 30 Mon | Chaos engineering; Design for security | [Chaos testing at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892); [STRIDE approach](https://learn.microsoft.com/en-us/archive/msdn-magazine/2006/november/uncover-security-design-flaws-using-the-stride-approach) | 
-Apr 1 Wed | Design for security (continued) | [Security design principles](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html) |  
+Apr 1 Wed | Design for security (continued) | [Security design principles](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html) | M4 Part A due 
 Apr 3 Fri | Activity: Security | | 
 Apr 6 Mon | Design for usability | [Mental models](https://www.nngroup.com/articles/mental-models); [Usability design heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) | 
-Apr 8 Wed | Design for usability (continued) | | 
+Apr 8 Wed | Design for usability (continued) | | M4 Part B due; M5 out
 Apr 10 Fri | **Spring Carnival - No classes** | | 
 Apr 13 Mon | Designing AI systems | | 
-Apr 15 Wed | Designing AI systems (continued) | | 
-Apr 17 Fri | Project work time (no recitation) | | 
+Apr 15 Wed | Designing AI systems (continued) | | Final Presentation out
+Apr 17 Fri | Project work time (no recitation) | | M5 due 
 Apr 20 Mon | Course review | | 
 Apr 22 Wed | Project presentations | | 
 Apr 24 Fri | Exam review | | 
