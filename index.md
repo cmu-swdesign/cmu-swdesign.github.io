@@ -71,7 +71,7 @@ Mar 16 Mon | [Design for scalability (continued)](slides/Lecture-14-15-16-Design
 Mar 18 Wed | [Design for scalability (continued)](slides/Lecture-14-15-16-Design-for-Scalability.pdf) | | 
 Mar 20 Fri | [Activity: Scalability](slides/Recitation-7-Scalability.pdf) | |  M3 due; [M4](assignments/Project-M4.pdf) out
 Mar 23 Mon | [Design for robustness](slides/Lecture-17-18-Design-for-Robustness.pdf) | [Why software quality matters](https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf) | 
-Mar 25 Wed | [Design for robustness (continued)]((slides/Lecture-17-18-Design-for-Robustness.pdf)) | [Chaos testing at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) | 
+Mar 25 Wed | [Design for robustness (continued)]((slides/Lecture-17-18-Design-for-Robustness.pdf) | [Chaos testing at Netflix](https://medium.com/@haasitapinnepu/how-netflix-embraced-chaos-b1f054ab9892) | 
 Mar 27 Fri | Activity: Robustness | | 
 Mar 30 Mon | Design for security | [STRIDE approach](https://learn.microsoft.com/en-us/archive/msdn-magazine/2006/november/uncover-security-design-flaws-using-the-stride-approach) | 
 Apr 1 Wed | Design for security (continued) | [Security design principles](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html) | M4 Part A due 
