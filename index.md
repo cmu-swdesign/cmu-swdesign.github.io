@@ -110,7 +110,7 @@ Educational research shows that active student participation in lectures is cruc
 \[MIS\]: Brown, Peter C., Henry L. Roediger III, and Mark A. McDaniel. Make it stick: The science of successful learning. Harvard University Press, 2014.
 
 # Assessments
-- **20% Homework**: 3-4 individual homeworks mostly focusing on software design problems from case studies discussed in class.
+- **20% Homework**: 2~3 individual homeworks mostly focusing on software design problems from case studies discussed in class.
 - **50% Project**: Multiple milestones involving development of a fully functional system, along with design documents and reflections, critiques, and a final project presentation. 
 - **20% Exams** : In person, open-book midterm & final. 
 - **10% Participation**: Active participation in class discussions and recitations, and completion of end-of-lecture exit tickets. 
