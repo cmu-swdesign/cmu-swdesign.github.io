@@ -77,12 +77,12 @@ Mar 30 Mon | [Design for security](slides/Lecture-19-20-Design-for-Security.pdf)
 Apr 1 Wed | [Design for security (continued)](slides/Lecture-19-20-Design-for-Security.pdf) | [Security design principles](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html); [Security Architecture of qmail](https://hillside.net/plop/2004/papers/mhafiz1/PLoP2004_mhafiz1_0.pdf) | M4 Part A due 
 Apr 3 Fri | [Activity: Security](slides/Recitation-9-Security.pdf) | | 
 Apr 6 Mon | [Design for usability](slides/Lecture-21-Design-for-Usability.pdf) | [Mental models](https://www.nngroup.com/articles/mental-models); [Usability design heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) |  [HW2](assignments/HW2-Design-for-Scalability.pdf) out
-Apr 8 Wed | [Value Sensitive Design](slides/Lecture-22-Value-Sensitive-Design.pdf) | [VSD: Introduction](https://vsd.ccs.neu.edu/introduction/)| M4 Part B due; M5 out
-Apr 10 Fri | **Spring Carnival - No classes** | | 
+Apr 8 Wed | [Value Sensitive Design](slides/Lecture-22-Value-Sensitive-Design.pdf) | [VSD: Introduction](https://vsd.ccs.neu.edu/introduction/)| [M5](assignments/Project-M5.pdf) out
+Apr 10 Fri | **Spring Carnival - No classes** | M4 Part B due | 
 Apr 13 Mon | Project work time (no lecture) | | 
 Apr 15 Wed | Project work time (no lecture) | | Final Presentation out
-Apr 17 Fri | Project work time (no recitation) | | M5 due; HW2 due 
-Apr 20 Mon | Course review | | 
+Apr 17 Fri | Project work time (no recitation) | | HW2 due; M5 due (April 19)
+Apr 20 Mon | Course review | |  
 Apr 22 Wed | Project presentations | | 
 Apr 24 Fri | Exam review | | 
 
