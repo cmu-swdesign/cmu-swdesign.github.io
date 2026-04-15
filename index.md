@@ -80,7 +80,7 @@ Apr 6 Mon | [Design for usability](slides/Lecture-21-Design-for-Usability.pdf) |
 Apr 8 Wed | [Value Sensitive Design](slides/Lecture-22-Value-Sensitive-Design.pdf) | [VSD: Introduction](https://vsd.ccs.neu.edu/introduction/)| [M5](assignments/Project-M5.pdf) out
 Apr 10 Fri | **Spring Carnival - No classes** | M4 Part B due | 
 Apr 13 Mon | Project work time (no lecture) | | 
-Apr 15 Wed | Project work time (no lecture) | | Final Presentation out
+Apr 15 Wed | Project work time (no lecture) | | [Final Presentation](assignments/Project-Presentation.pdf) out
 Apr 17 Fri | Project work time (no recitation) | | HW2 due; M5 due (April 19)
 Apr 20 Mon | Course review | |  
 Apr 22 Wed | Project presentations | | 
