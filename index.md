@@ -82,8 +82,8 @@ Apr 10 Fri | **Spring Carnival - No classes** | M4 Part B due |
 Apr 13 Mon | Project work time (no lecture) | | 
 Apr 15 Wed | Project work time (no lecture) | | [Final Presentation](assignments/Project-Presentation.pdf) out
 Apr 17 Fri | Project work time (no recitation) | | HW2 due; M5 due (April 19)
-Apr 20 Mon | Course review | |  
-Apr 22 Wed | Project presentations | | 
+Apr 20 Mon | [Course review](slides/Lecture-23-Course-Review.pdf) | |  
+Apr 22 Wed | Project presentations | | Final Presentation due
 Apr 24 Fri | Exam review | | 
 
 # Learning Objectives
