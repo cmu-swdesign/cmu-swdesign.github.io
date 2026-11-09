@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 17-423/723 Software System Design
-subtitle: Spring 2026
+subtitle: Spring 2027
 ---
 
 # Course Description
@@ -19,24 +19,23 @@ This course teaches students how to design complex, large-scale software systems
 - An interest in learning from failures and a growth mindset
 
 ### Time & Location
-- Lectures: Mon & Wed, 9:30-10:50 AM (GHC 4303)
-- Recitation: Friday, 10:00-10:50 AM (GHC 4303)
+- Lectures: Mon & Wed, 12:30-1:50 PM (TBD)
+- Recitation: Friday, 1:00-10:50 PM (SH 238)
 
 ### Course Staff
 
 - Instructor: [Eunsuk Kang](https://eskang.github.io/) (eunsukk@andrew)
-- TA: [Yining She](https://sheyining.github.io/) (yiningsh@andrew)
+- TA: TBD
 
 ### Office Hours
 
-- Yining: Wednesday 5:00-6:00 PM (TCS 310)
-- Eunsuk: Friday 4:00-5:00 PM (TCS 322)
+- Eunsuk: TBD
 
 ### Readings
 
 There is no single official textbook for this course. Instead, readings will be assigned from academic and industry articles, book chapters, blog posts, and videos. Please see Canvas for more information about the readings.
 
-# Class Schedule
+# Class Schedule (from Spring 2026; to be updated)
 
 Date | Topic | Reading | Assignment
 -| - | - | -
