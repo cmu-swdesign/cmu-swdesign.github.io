@@ -20,7 +20,7 @@ This course teaches students how to design complex, large-scale software systems
 
 ### Time & Location
 - Lectures: Mon & Wed, 12:30-1:50 PM (TBD)
-- Recitation: Friday, 1:00-10:50 PM (SH 238)
+- Recitation: Friday, 1:00-1:50 PM (SH 238)
 
 ### Course Staff
 
